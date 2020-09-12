@@ -12,7 +12,7 @@ exports.up = function(knex) {
     table.string('city');
     table.string('bairro');
     table.string('rua');
-    table.string('crime_id').primary();
+    table.string('crime_id');
   });
 };
 

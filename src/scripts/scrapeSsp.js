@@ -3,7 +3,7 @@ const connection = require('../database/connection.js');
 
 const scrape = async (BOnumber) => {
   const browser = await puppeteer.launch({
-    headless: false,
+   headless: false,
     executablePath: '/opt/google/chrome/google-chrome'
   });
 
@@ -44,7 +44,7 @@ const scrape = async (BOnumber) => {
   return result
 };
 
-let BOnumber = 3853;
+let BOnumber = 3839;
 
 scrape(BOnumber).then(value => {
   value.forEach(async item => {
