@@ -4,7 +4,7 @@ const connection = require('../database/connection.js');
 const scrape = async (BOnumber) => {
   const browser = await puppeteer.launch({
    headless: false,
-    executablePath: '/opt/google/chrome/google-chrome'
+    executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe'
   });
 
   const page = await browser.newPage()
