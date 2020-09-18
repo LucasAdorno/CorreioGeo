@@ -3,9 +3,10 @@ const connection = require('../database/connection');
 module.exports = {
   async index(request, response) {
 
-    const crimes = await connection('crimes')
+    let crimes = await connection('crimes')
       .select('*')
-
+    crimes = crimes.filter(item => item.latitude !== null && item.estado === 'Bahia')
+    console.log(crimes.length)
     return response.json(crimes)
 
   },

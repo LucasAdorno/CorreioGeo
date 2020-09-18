@@ -1,0 +1,950 @@
+DATA,NOME,SEXO,IDADE,CIDADE,ENDERECO,BAIRRO
+12/20/2019,Silvio Santana Santos Araújo,M,41,Simões Filho,"Rua Pitanguinha, após a Igreja Assembleia de Deus",NI
+12/20/2019,Identidade Ignorada,M,NI,Camaçari,"Barra de Pojuca, Invasão de Areias",Barra de Pojuca
+12/20/2019,Identidade Ignorada,M,NI,Simões Filho,"BR-324, Estrada de Barro, localizada atrás do Rei da Pamonha",NI
+12/20/2019,Identidade Ignorada,M,NI,Lauro de Freitas,"Vida Nova, Rua Djanira Maria Bastos",Vida Nova
+12/20/2019,D. A. N.,M,17,Dias D'Ávila,Entroncamento,Entroncamento
+12/20/2019,Identidade Ignorada,M,NI,Salvador,Alameda do Vale,Alto da Terezinha
+12/20/2019,Jorge Gabriel Almeida dos Santos,M,21,Mata de São João,"Rua da Fonte, Entroncamento",Entroncamento
+12/21/2019,Identidade Ignorada,M,NI,Salvador,Estrada da Rainha,Baixa de Quintas
+12/21/2019,Identidade Ignorada,M,NI,Salvador,"Avenida Beira Mar, próximo ao Hotel Lisore Bitis",Itapuã
+12/21/2019,Identidade Ignorada,M,NI,Simões Filho,(Referente entrada no Hospital Eduardo Alencar dia 15/12/2019),NI
+12/21/2019,Walney Nascimento de Oliveira,M,31,Salvador,Rua 51,Fazenda Coutos II
+12/22/2019,Mônica Batista de Brito,F,41,Lauro de Freitas,(Referente entrada no Hospital Menandro de Farias dia 08/12/2019),NI
+12/22/2019,Gabriel de Sá Nunes,M,21,Salvador,"Segunda Travessa Cirlândia, localidade da Formiga",São Caetano
+12/22/2019,Wesley de Jesus Santos,M,29,Salvador,(Referente entrada no HGE dia 21/12 às 16h05),IAPI
+12/22/2019,Identidade Ignorada,M,NI,Salvador,Praça Irmã Dulce,Largo de Roma
+12/22/2019,Identidade Ignorada,M,NI,Salvador,Via Regional de Castelo Branco,São Marcos
+12/22/2019,Jose Lucas da Silva,M,21,Simões Filho,"BA 093, Parque CMJ, antes da empresa Eternit",NI
+12/22/2019,Lindson Mendonça Freire,M,20,Salvador,"Via pública, Rua das Placas, Brongo, Avenida Renato",IAPI
+12/22/2019,Iago Lima da Rocha,M,20,Salvador,"Via pública, Rua das Placas, Brongo, Avenida Renato",IAPI
+12/22/2019,Identidade Ignorada,M,NI,Camaçari,Via pública,NI
+12/23/2019,Fred Roberto de Almeida,M,33,Salvador,"Avenida Mário Leal, Dique do Tororó",Vasco da Gama
+12/23/2019,Felipe Noel de Santana Jeronimo,M,23,Salvador,"Rua Valter Diniz, em frente à Padaria Geopan",Estrada das Barreiras
+12/23/2019,Deivisson Soares dos Santos,M,33,Camaçari,"Avenida Luiz Eduardo Magalhães, Centro",Centro
+12/24/2019,Identidade Ignorada,M,NI,Salvador,Entrada no Hospital do Subúrbio - Procedente de local ignorado,NI
+12/24/2019,Alex Rodrigues Santos,M,24,Salvador,"Rua do Forno, Calafate",Fazenda Grande do Retiro
+12/24/2019,Luan Sousa de Oliveira,M,18,Salvador,"Rua do Forno, Calafate",Fazenda Grande do Retiro
+12/24/2019,Daniela Santana Miranda,F,40,Salvador,Rua Santo Antônio (Travessa São José),São Cristóvão
+12/26/2019,Identidade Ignorada,M,NI,Salvador,"Rua Australiana, Baixa do Camurujipe",São Caetano
+12/26/2019,Identidade Ignorada,M,NI,Salvador,"Rua Volts, após a empresa de ônibus Praia Grande",Rio Sena
+12/26/2019,Identidade Ignorada,M,NI,Salvador,"Rua Vereador Raimundo Urbano, na rua da igreja Assembleia de Deus",Calabetão
+12/26/2019,Identidade Ignorada,M,NI,Salvador,"Rua Onze de Novembro (Bariri), em frente à Igreja Quadrangular",Santa Cruz
+12/27/2019,Identidade Ignorada,M,NI,Salvador,"Ladeira dos Fias, em frente ao Colégio Dantas Junior",Santa Luzia
+12/27/2019,Alana de Oliveira,F,25,Lauro de Freitas,NI,Areia Branca
+12/27/2019,Alfredo Sousa dos Santos,M,50,Lauro de Freitas,"Parque São Paulo, em um matagal, atrás da cooperativa de topic Translauf, Itinga",Itinga
+12/27/2019,Renata Caroline Paiva do Carmo,F,29,Salvador,"Hospital do Subúrbio, procedente da Rua Suzana de Freitas, próximo ao Viaduto dos Motoristas, às 06h00 do dia 27/12/2019",Uruguai
+12/27/2019,Identidade Ignorada,M,NI,Simões Filho,Travessa Isaías Alves,CIA I
+12/27/2019,Gildete Silva,F,47,Salvador,"Areial, Nordeste",Santa Cruz
+12/27/2019,Romário Lopes da Ressurreição,M,34,Camaçari,Localidade conhecida como Guajirus,NI
+12/27/2019,Leandro Cardoso Dias Junior,M,22,Salvador,"Rua Beira Rio, em frente ao depósito de bebidas Brilho Sol",Itapuã
+12/29/2019,Alane Beatriz da Mata de Goes,F,19,Salvador,Rua do Cascalho,Pituaçu
+12/29/2019,Matheus Felipe Souza Ferreira Santos,M,23,Salvador,"Rua 1º de Dezembro, localidade da Baixinha de Santo Antônio",São Gonçalo do Retiro
+12/29/2019,Messias Santana de Souza,M,22,Dias D'Ávila,"Entroncamento, estrada de chão, sentido Água Maiorca",Entroncamento
+12/29/2019,Identidade Ignorada,M,NI,Candeias,Rua Alto da Boa Vista,NI
+12/29/2019,Identidade Ignorada,M,NI,Simões Filho,"Proximidades rotatória de Mapele, terceira entrada",NI
+12/29/2019,Identidade Ignorada,M,NI,Simões Filho,"Rodovia BA-526, Mapele",Mapele
+12/30/2019,Jonas de Castro Conceição,M,24,Salvador,"Rua Presidente Dutra, próximo à Rua do Sossego",Bairro da Paz
+12/30/2019,Identidade Ignorada,M,NI,Camaçari,"BA 524, km 03, Canal de Tráfego Polo",NI
+12/30/2019,R. L. C. dos S.,M,NI,Salvador,"Rua Deputado Nilton Moura Costa, Conjunto São Madalena",Federação
+12/30/2019,William Protásio Santana,M,25,Salvador,Avenida ACM,Pernambués
+12/30/2019,Identidade Ignorada,M,NI,Salvador,Rua Olinda,Periperi
+12/30/2019,Patric Leonardo Araújo Matos,M,20,Camaçari,"Rua das Malvinas, Barra de Pojuca",Barra de Pojuca
+12/30/2019,Identidade Ignorada,M,NI,Salvador,Rua Stella Maris,São Cristóvão
+12/31/2019,Rodrigo Conceição de Almeida,M,28,Vera Cruz,Praia de Conceição,NI
+1/1/2020,Admilson dos Santos,M,39,Salvador,"Largo de Santana, em frente ao Acarajé da Dinha",Rio Vermelho
+1/1/2020,Jandson Nascimento de Souza,M,25,Camaçari,"Estrada da Cetrel, km 04, Cetrel",Cetrel
+1/1/2020,Identidade Ignorada,M,NI,Salvador,"Rua da Jaqueira, subindo para o Novo Horizonte",Sussuarana
+1/1/2020,Identidade Ignorada,M,NI,Salvador,"BR-324, km 614, Valéria, sentido Salvador",Sussuarana
+1/1/2020,Adriele Souza Ribeiro,F,21,Camaçari,"Rua Castelo Branco, Parque Verde I",Parque Verde I
+1/1/2020,Erivan dos Santos Lopes,M,26,Camaçari,"Rua Lagoa da Sereia, Barra do Pojuca",Barra do Pojuca
+1/2/2020,Identidade Ignorada,M,NI,Salvador,Rua Stella Maris,São Cristóvão
+1/2/2020,Identidade Ignorada,M,NI,Salvador,"Referente ao fato ocorrido no dia 31/12/2019, às 21h34, em via pública",Nordeste de Amaralina
+1/3/2020,Remerson Silva dos Santos,M,24,Salvador,Estrada Velha de Campinas,Campinas de Pirajá
+1/3/2020,Ronilson de Jesus Santos,M,35,Camaçari,"Segunda entrada da Estrada Emissário, próximo da BA 099, Arembepe",Arembepe
+1/3/2020,Identidade Ignorada,M,NI,Salvador,"Rua Itaipu, próximo da Rua da Fonte em direção ao posto BR",Itacaranha
+1/3/2020,Jackson dos Santos Carvalho,M,24,Dias D'Ávila,"2ª Travessa São José, Cidade Mirim",Cidade Mirim
+1/4/2020,Guilherme Santos Ferreira,M,19,Salvador,Rua Ana Lúcia,Alto da Terezinha
+1/4/2020,Adriano Gouveia da Silva,M,25,Dias D'Ávila,"Jardim Futurama, km 93",Jardim Futurama
+1/4/2020,P. R. B. S. S.,M,16,Salvador,"Largo do Bonfim, Beco da Embasa",Bonfim
+1/4/2020,Herbert Roger de Jesus Lira,M,23,Dias D'Ávila,"Rua Padre Camilo Torrend, Cristo Rei",Cristo Rei
+1/4/2020,Gabriel Santos Ferreira Júnior,M,24,Itaparica,"Rua do Chafariz, Ponta de Areia",Ponta de Areia
+1/5/2020,Valter Lucas Alves Cerqueira,M,38,Itaparica,"Loteamento Parque das Amoreiras, Alto das Pombas",Alto das Pombas
+1/5/2020,Rennan Wilker Teixeira dos Santos,M,23,Dias D'Ávila,"Rua da Hortência de Sá, Genaro",Genaro
+1/5/2020,Leonardo Souza Santos Neves,M,21,Simões Filho,"Rua da Linha, bairro Aratu, Ilha de São João",Ilha de São João
+1/5/2020,Lucas Filipe de Lima Souza,M,25,Simões Filho,"Rua da Linha, bairro Aratu, Ilha de São João",Ilha de São João
+1/5/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Caji, bairro Kingoma, na localidade conhecida como Bambuzal",Kingoma
+1/5/2020,Wendell Rodrigues Requião,M,21,Salvador,"Rua Carlos Brandão da Silva, via pública atrás do campo de futebol",Mata Escura
+1/5/2020,Noan Nascimento de Souza,M,18,Lauro de Freitas,"Localidade Residencial Dona Lindu, Setor B",Itinga
+1/5/2020,Identidade Ignorada,M,NI,Lauro de Freitas,Entrada no Hospital Menandro de Farias - Procedente local não informado,NI
+1/5/2020,Augusto Carvalho da Silva,M,26,Camaçari,"Rua Principal, próximo à Embasa, bairro Verde Horizonte",Verde Horizonte
+1/5/2020,Breno de Souza Bispo,M,21,Salvador,"Rua Roberto Carol, via pública, próximo à garagem da empresa Boa Viagem",Coutos
+1/5/2020,Jossé Alvino dos Santos,M,25,Lauro de Freitas,"Caminho 32, Quadra 27, bairro Vida Nova",Vida Nova
+1/6/2020,Leon Félix dos Santos,M,26,Salvador,Final de linha Jardim Nova Esperança,Jardim Nova Esperança
+1/7/2020,Rafaela Lima Souza,F,22,Salvador,"Av. Octávio Mangabeira, Praia dos Artistas (referente tentativa de homicídio dia 06/07/2020)",Boca do Rio
+1/7/2020,Manoel Donato dos Santos,M,26,Salvador,Travessa Sá Oliveira,São João do Cabrito
+1/7/2020,Identidade Ignorada,M,NI,Salvador,Estrada do Cabrito (encontrado em estado de decomposição),Pirajá
+1/7/2020,Identidade Ignorada,F,NI,Salvador,Rua do posto de saúde,Santo Inácio
+1/7/2020,Identidade Ignorada,M,NI,Salvador,"Rua 1º de Maio, Travessa 5 de Agosto",Pau da Lima
+1/8/2020,Tatiane Palmeira Sales,F,32,São Sebastião do Passé,"Rua Hélio Goldim, bairro Lamarão do Passé",Lamarão do Passé
+1/8/2020,Marcos Antonio Ribeiro dos Santos,M,19,Pojuca,"Rua Washington Luis, Baixa da Égua",Baixa da Égua
+1/8/2020,Aderbal Francisco das Virgens,M,49,Salvador,Via principal de Marechal Rondon,Marechal Rondon
+1/8/2020,William Santos da Silva,M,30,Salvador,Rua Doutor Aristides de Oliveira,Santa Mônica
+1/8/2020,Anderson de Oliveira Invenção,M,21,Salvador,Rua Dois de Julho,Fazenda Grande do Retiro
+1/9/2020,Rodrigo de Souza Fagundes,M,25,Camaçari,"Conjunto Residencial Caminho do Mar I, Estrada Cetrel",Cetrel
+1/9/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Via Metropolitana, km 28, Parque São Paulo, imediações da guine Torres da Chesf",Parque São Paulo
+1/9/2020,Bruno Santos de Souza,M,35,Salvador,"Rua Aristides Vítor da Silva, final de linha",São Caetano
+1/9/2020,Adriano Jesus dos Anjos,M,68,Salvador,"Avenida Centenário, sentido Dique do Tororó, em frente à UPA dos Barris",Barris
+1/9/2020,Gicelia da Silva Correia,F,62,Salvador,"Avenida Silveira Martins, após a loja Lemos Material de Construção, em frente ao Cerimonial São José",Cabula
+1/9/2020,Fabio Silva Santos,M,40,Simões Filho,Localidade de Pitanga de Palmares,Pitanga de Palmares
+1/9/2020,Marcos Dias Aquino,M,36,São Francisco do Conde,"Loteamento Fazenda Corupeba, próximo à Igreja Assembleia de Deus, Caípe de Cima",Caípe de Cima
+1/10/2020,Identidade Ignorada,M,NI,Salvador,"Estrada Velha da Base Naval, após o viaduto",Paripe
+1/10/2020,Identidade Ignorada,M,NI,Salvador,"Estrada Velha da Base Naval, após o viaduto",Paripe
+1/10/2020,Adenilson Santana Cruz,M,28,Salvador,"Rua Doutor Aristides de Oliveira, Conjunto Bahia",Santa Mônica
+1/11/2020,Nelson Moura Mota,M,36,Salvador,"*Ref. Tentativa de homicídio 10/01/2020, procedente da Rua Vicente Celestino, próximo à Escola Germano*",Marechal Rondon
+1/12/2020,Wesley Silva dos Santos,M,22,Salvador,Rua Amor Divino,Praia Grande
+1/12/2020,Identidade Ignorada,M,NI,Simões Filho,"Na rotatória da Mapele, BA 526",Mapele
+1/12/2020,Uellington Cruz dos Santos,M,41,São Sebastião do Passé,"BR 110, Banco de Areia",Banco de Areia
+1/12/2020,Identidade Ignorada,M,NI,Salvador,"Travessa Salomé, localidade conhecida como Invasão Encantada",Paripe
+1/12/2020,Renato Jesus dos Santos,M,29,Salvador,"Rua Direta do Ypiranga, atrás do Esporte Clube Ypiranga",Vila Canária
+1/12/2020,Anderson Silva de Jesus,M,32,Salvador,"Conjunto Vista Alegre de Baixo, Rua Franco Velasco, em frente à Praça Desembargador Edmilson Jatahy Fonseca",Coutos
+1/12/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,Povoado de Laranjeiras,Laranjeiras
+1/12/2020,Vitor de Jesus,M,22,Candeias,"Loteamento São Brás, Boca da Mata",Boca da Mata
+1/13/2020,Anderson Amorim dos Santos,M,23,Salvador,"Feira de São Joaquim, próximo ao Colégio Landulfo Alves",Calçada
+1/13/2020,Lucas de Jesus Santos,M,19,Salvador,Via Regional,Águas Claras
+1/13/2020,Dêivide da Silveira Paim,M,20,Salvador,Rua Monsenhor Rubens Mesquita,Tororó
+1/13/2020,Identidade Ignorada,M,NI,Salvador,Rua Antônio Vieira Leite,Pernambués
+1/13/2020,Carlos Bezerra dos Santos,M,53,Camaçari,"Rua da Guiné, atrás da Igreja Missão Assembleia de Deus, Buri Satuba",Burissatuba
+1/14/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Assis Valente, após Supermercado JM",Cajazeiras IV
+1/14/2020,Identidade Ignorada,F,NI,Salvador,Av. Juracy Magalhães,Rio Vermelho
+1/14/2020,Identidade Ignorada,M,NI,Salvador,"Rua Porto Seguro, Novo Horizonte",Sussuarana
+1/15/2020,Sandro da Silva Amorim,M,32,Salvador,"Rua Mata de São João, Estrada do Derba, entrada no Hospital do Subúrbio em 14.01.2020",Valéria
+1/15/2020,Identidade Ignorada,M,NI,Salvador,"Rua Santo Amaro, localidade do Bariri",Itacaranha
+1/15/2020,Ronald Teixeira Filho,M,31,São Francisco do Conde,"Rua Luis Viana Filho, Centro, proximidades do Mercado Cultural",Centro
+1/15/2020,Marivaldo dos Santos,M,48,Salvador,Rua São Tomé,Capinas de Pirajá
+1/15/2020,Carlos Roberto Rocha dos Santos,M,30,Camaçari,"Rua não informada, bairro PHOC I",PHOC I
+1/15/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Maria Meire, Nova Vitória",Nova Vitória
+1/15/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,"Às margens da BA-110, km 02, próximo à ""Curva da Morte""",NI
+1/15/2020,Eronildo de Souza Cornélio,M,58,Salvador,"Eixo 32, Quadra 03",Fazenda Coutos III
+1/15/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Gal Costa, próximo da fábrica Polimix",Sussuarana
+1/15/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Gal Costa, próximo da fábrica Polimix",Sussuarana
+1/16/2020,Identidade Ignorada,M,NI,Salvador,Rua São Cristóvão,Liberdade
+1/16/2020,Identidade Ignorada,M,NI,Salvador,Rua Heitor Dias,Sete Portas
+1/16/2020,Cleidison Bonfim do Nascimento,M,28,Camaçari,"Verde Horizonte, Guarajuba",Guarajuba
+1/16/2020,Identidade Ignorada,M,NI,Salvador,"Estrada Velha do Aeroporto, Rua Planalto Verde, Vila Verde",São Cristóvão
+1/17/2020,Adriano Jesus dos Santos,M,24,Vera Cruz,"Rua Direta da Gameleira, Gameleira",Gameleira
+1/17/2020,Identidade Ignorada,F,NI,Salvador,Rua Engenheiro Austricliano (período provável do homicídio: das 21h00 do dia 16/01/2020 às 08h30 da data corrente),São Cetano
+1/18/2020,Identidade Ignorada,M,NI,Salvador,Rua Paulo Rubens,Fazenda Grande do Retiro
+1/18/2020,Identidade Ignorada,M,NI,Salvador,Gamboa de Cima (Ref. a entrada no Hospital Ernsto Simões Filho às 03h17 do dia 17/01/2020),Gamboa
+1/18/2020,Iury de Souza Santos,M,NI,Salvador,Rua Monsenhor Rubens Mesquita,Tororó
+1/18/2020,Identidade Ignorada,M,NI,Salvador,"Rua Primeiro de Janeiro, local conhecido como Pistão, atrás da Igreja Universal",Uruguai
+1/18/2020,Everton Souza da Silva,M,29,Camaçari,"Rua da Linha, Centro",Centro
+1/18/2020,Igor dos Santos Pena,M,25,Lauro de Freitas,Jardim Santa Bárbara,Itinga
+1/19/2020,Identidade Ignorada,M,NI,Salvador,Conjunto ACM,Estrada das Barreiras
+1/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua do Progresso, Curuzu",Liberdade
+1/19/2020,Clisman Conceição da Silva,M,24,Itaparica,"Ponta de Areia, em frente à Barraca Zé do Olodum",Ponta de Areia
+1/20/2020,M.S. de V.,M,15,Salvador,"Rua Direta de Águas Claras, Loteamento Conder, esquina da Sorveteria Santiago",Águas Claras
+1/20/2020,Pedro Henrique Santos Silva,M,23,Camaçari,"Entrada no Hospital Geral de Camaçari em 19.01.2020 - Procedente da Rua Campo de Futebol, próximo a Acajutiba, bairro Gleba C",Gleba C
+1/20/2020,Identidade Ignorada,M,NI,Simões Filho,"Via Ipitanga, após a empresa Atol",NI
+1/21/2020,Identidade Ignorada,M,NI,Salvador,"Rua Artêmio Castro Valente, em frente ao estádio Manoel Barradas",Canabrava
+1/21/2020,Matheus Eduardo Couto Cardoso,M,23,Lauro de Freitas,"Largo do Isac, Itinga",Itinga
+1/22/2020,Identidade Ignorada,M,NI,Salvador,Em frente ao supermercado Bompreço,São Caetano
+1/22/2020,Vinícius Neves Silva,M,21,Salvador,"Rua Planalto Real, Quadra II, Lote 17",Plataforma
+1/22/2020,Identidade Ignorada,M,NI,Salvador,"Rua Planalto Real, Quadra II, Lote 17",Plataforma
+1/22/2020,Edmilson Machado Leal,M,31,Simões Filho,"Rua Alto da Boa Vista, Recanto dos Eucaliptos",Recanto dos Eucaliptos
+1/22/2020,Cristinei Rian Santos Nascimento,M,18,Salvador,Rua Rio de Contas,Pirajá
+1/22/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,"Estrada vicinal à BR 110, km 6, zona rural",NI
+1/23/2020,Jose Dilson de Jesus Santos,M,46,Camaçari,"Monte Gordo, rua principal do Jordão, via urbana",Monte Gordo
+1/23/2020,B. N. da S.,M,17,Salvador,Rua Não Informada,São Marcos
+1/24/2020,Janilson Conceição da Silva,M,31,Salvador,Rua Aratu,Paripe
+1/24/2020,Darlan Batista Isaias de Oliveira,M,20,Salvador,"Ref. A entrada no Hospital Municipal de Salvador no dia 23/01/2020 às 21h00, procedente da localidade conhecida como ""Coroado""",São Marcos
+1/24/2020,Jeverson Santos da Silva,M,18,Candeias,"Rua do Alambique, próximo à linha do trem, Passagem dos Teixeiras",Passagem dos Teixeiras
+1/24/2020,Joaquim da Silva Marques,M,20,Candeias,"Rua do Alambique, próximo à linha do trem, Passagem dos Teixeiras",Passagem dos Teixeiras
+1/24/2020,Josué Correia do Nascimento Junior,M,37,Salvador,"1ª Travessa Lagoa da Vovó, em frente ao Mercadinho (Tem de Tudo)",São Gonçalo do Retiro
+1/24/2020,Adriana da Silva de Carvalho,F,34,São Sebastião do Passé,"BR 324, distrito de Patrícia Dórea",Patrício Dórea
+1/24/2020,Carlos Sérgio Anton Estrelado,M,50,Salvador,"Rua Barão de Cotegipe, próximo ao Hospital da Mulher",Roma
+1/24/2020,Rafael Costa Ventura,M,23,Candeias,"Rua Rio do Cunha, Praça do Peixe, final de linha, distrito de Passé",Passé
+1/25/2020,Identidade Ignorada,M,NI,Salvador,"Rodovia BA-528, em frente à subestação, antes do viaduto, sentido Base Naval",Fazenda Coutos
+1/25/2020,José Messias Pinheiro da Silva,M,38,Camaçari,"Rua Monte Negro do Cajueiro, Parque das Mangabas",Camaçari
+1/25/2020,Identidade Ignorada,M,NI,Salvador,"Rua Teixeira Barros, ao lado do posto Shell da Av. ACM",Brotas
+1/25/2020,Leandro da Conceição,M,30,Itaparica,"Praça Silvino Veloso, Amoreiras",Amoreiras
+1/25/2020,Pedro Henrique de Jesus Melo Costa,M,19,Salvador,"Rua Agripino Nazareth, em frente à Associação dos Moradores",Plataforma
+1/26/2020,Mariene Menezes de Oliveira,F,36,Simões Filho,"Ref. Ao fato ocorrido dia 25/01/2020 às 18h40, procedente do Conjunto Habitacional Universitário II, Vida Nova",Vida Nova
+1/26/2020,Lenilson Conceição de Oliveira,M,28,Camaçari,"2ª Travessa Lauro de Freitas, Parque Verde I",Parque Verde I
+1/26/2020,Valdinei dos Santos de Jesus,M,21,Camaçari,"Estrada 24, Jardim Limoeiro",Jardim Limoeiro
+1/27/2020,Identidade Ignorada,M,NI,Salvador,"Estrada das Barreiras, Curva da Morte",Cabula
+1/27/2020,Émerson Santana de Jesus,M,19,Salvador,"Rua Bartolomeu Dias, em frente ao campo",Dom Avelar
+1/27/2020,Adejair Estevam das Neves Junior,M,27,Candeias,"Rua João das Botas, Malembar",Malembar
+1/27/2020,James Augusto Santos da Silva,M,27,Salvador,Rua Paulo César Grise,Sussuarana
+1/27/2020,Igor Araújo da Silva,M,22,Salvador,"Jardim Mangabeira, Estrada da Paciência",Cajazeiras VIII
+1/27/2020,Edcarlos Santos Brito,M,47,Camaçari,"Rua Canudos, Nova Vitória",Nova Vitória
+1/27/2020,Álvaro da Cruz Suzart,M,35,Salvador,"Travessa São José, em frente à Igreja Batista Betel, região conhecida como ""Estrada da Muriçoca""",Vale dos Lagos
+1/28/2020,E. dos S. C.,M,16,Simões Filho,"Rua Nossa Senhora da Esperança, Ipitanga",Ipitanga
+1/29/2020,Joselito Rodrigues Júnior,M,40,Salvador,Rua Marquês de Santana,Liberdade
+1/29/2020,L. D. do B. R.,F,15,Candeias,"Poço das Pedras, Passagem dos Teixeiras",Passagem dos Teixeiras
+1/29/2020,Letícia Rocha Fonseca,F,18,Salvador,"Rua do Tanheiro, Av. Beira Mar, Porto dos Mastros",Ribeira
+1/29/2020,Identidade Ignorada,M,NI,Salvador,"2ª Travessa Florisvaldo Tibúrcio, Loteamento Coqueiro Grande, Jaguaripe I",Cajazeiras
+1/29/2020,José Donnata de Almeida Lima,M,24,Salvador,Rua 03 de Dezembro,São Caetano
+1/29/2020,Edmorfe Melo da Silva,M,23,Salvador,Rua 03 de Dezembro,São Caetano
+1/29/2020,Jairo José de Oliveira Neto,M,25,Salvador,"Via pública, Avenida Gal Costa",São Marcos
+1/30/2020,Identidade Ignorada,M,NI,Salvador,"Travessa Fausto Cardoso, Barão de Cotegipe",Calçada
+1/30/2020,Tiago Sodré Santos,M,29,Salvador,Avenida Aliomar Baleeiro,São Cristóvão
+1/30/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Centenário, em frente à UPA",Barris
+1/30/2020,Uziel Silva dos Santos,M,19,Salvador,Avenida Valentim,Fazenda Grande do Retiro
+1/30/2020,Jefersson Vitório dos Santos,M,28,São Sebastião do Passé,"Rua principal, bairro Alegre, próximo ao Comércio Pimentel",Alegre
+1/30/2020,Elielson Santos de Jesus,M,18,Salvador,"Rua do Lírio, descida do Bar Tatiane",Rio Sena
+1/30/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Bauru, Novo Horizonte",Novo Horizonte
+1/31/2020,Camila Maria Barros dos Santos,F,19,Salvador,Procedente de Águas Claras,Águas Claras
+1/31/2020,Jeferson da Silva Nascimento,M,27,Camaçari,"Rua Jerusalém, conjunto Gleba C",Gleba C
+1/31/2020,Lucas Nonato Lima Pessoa,M,31,Salvador,"Rua da Cascata, próximo ao campo de futebol",Alto da Terezinha
+2/1/2020,Identidade Ignorada,M,NI,Salvador,Cruzamento com a Rua São Edson,Estrada da Cocisa
+2/1/2020,Vinicius Santos Conceição,M,20,Simões Filho,"Via pública, imediações da quadra de esportes, localidade conhecida como Pitanguinha",Pitanguinha
+2/1/2020,Eliniveron de Jesus Batista,M,25,Dias D'Ávila,"Via pública na localidade conhecida como Nova Era, Leandrinho",Leandrinho
+2/1/2020,Identidade Ignorada,M,NI,Salvador,"Avenida General Graça Lessa, via pública, Vale do Ogunjá",Engenho Velho de Brotas
+2/1/2020,Identidade Ignorada,M,NI,Salvador,"Em via pública da Rua Nova Divinéia, subindo ladeira do cemitério, na Ilha do Rato",Periperi
+2/1/2020,Tiago de Jesus Mota,M,20,Salvador,Avenida Maravilha,Itacaranha
+2/1/2020,Jefferson dos Santos de França,M,22,São Sebastião do Passé,"Praça Principal, Centro",Centro
+2/2/2020,Identidade Ignorada,M,NI,Salvador,Em via pública (Barragem de Ipitanga),Boca da Mata
+2/2/2020,Nielson Alves Pessoa do Nascimento,M,31,Salvador,Rua Sete de Setembro de Coutos,Coutos
+2/3/2020,Alexnaldo Pereira Santos,M,37,Camaçari,"Via pública, Rua Jerusalém",NI
+2/3/2020,C. da C. D. C.,M,17,Salvador,"Via pública, Rua Evandro de Oliveira",Rio Sena
+2/3/2020,Divanei Batista dos Santos,M,27,Salvador,Rua Oscar Seixas,Pirajá
+2/3/2020,Identidade Ignorada,M,NI,Salvador,"Rua A, Sítio Roda Via, localidade conhecida como Buracão",Ceasa
+2/3/2020,Identidade Ignorada,M,NI,Salvador,"Estrada da Paciência, em frente ao Cartório de Registro Civil",Cajazeiras VIII
+2/4/2020,Edson Coelho da Silva,M,25,Camaçari,Bairro Massaranduba,Massaranduba
+2/4/2020,Gleidson dos Santos de Jesus,M,18,Salvador,Ilha dos Ratos,Periperi
+2/4/2020,Identidade Ignorada,M,NI,Salvador,Invasão Kubanacan,Mata Escura
+2/4/2020,Israel Argolo Nascimento,M,22 meses,Pojuca,Praça Luiz Eduardo Magalhães,NI
+2/4/2020,James Douglas dos Santos,M,23,Salvador,Rua Professor Isaías Alves de Almeida,Costa Azul
+2/4/2020,Luzimar Santana de Oliveira,M,57,Salvador,Rua Ilha de Maré,São Gonçalo do Retiro
+2/5/2020,Identidade Ignorada,M,NI,Salvador,2ª Travessa 2 de Julho,Alto da Terezinha
+2/5/2020,Identidade Ignorada,M,NI,Salvador,2ª Travessa 2 de Julho,Alto da Terezinha
+2/5/2020,Identidade Ignorada,M,NI,Salvador,2ª Travessa 2 de Julho,Alto da Terezinha
+2/5/2020,Identidade Ignorada,M,NI,Salvador,Avenida Dois de Julho,Cajazeiras II
+2/5/2020,Identidade Ignorada,M,NI,Salvador,"Após a pedreira de Aratu, estrada de barro",Cassange
+2/5/2020,Allan de Araújo Ferreira,M,37,Lauro de Freitas,"Avenida José Leite, Caji",Caji
+2/5/2020,Anailton de Andrade Santos,M,21,Salvador,Travessa São Paulo,Cajazeiras VI
+2/5/2020,Gildevan Barcelar da Silva,M,34,Salvador,"Rua Astor Campelo, Sussuarana Velha",Sussuarana
+2/6/2020,Jose Raimundo Jesus de Lima,M,47,Mata de São João,Rua Rio Grande do Sul,NI
+2/6/2020,Identidade Ignorada,M,NI,Salvador,Avenida 29 de Março,Jardim Nova Esperança
+2/6/2020,José Edijânio Oliveira Cruz,M,34,Salvador,Rua Muniz Travassos,Alto de Coutos
+2/6/2020,Identidade Ignorada,M,NI,Salvador,"Rua Carlos Brandão, Condomínio Recanto do Cajueiro",Mata Escura
+2/6/2020,K. S. das V.,M,17,Pojuca,"Rua do Equador, Luis Eduardo",Luis Eduardo
+2/7/2020,Identidade Ignorada,M,NI,Salvador,2ª Travessa Colombia,Boa Vista de São Caetano
+2/7/2020,Identidade Ignorada,M,NI,Salvador,Rua Cirlândia,Capelinha de São Caetano
+2/7/2020,Luiz Henrique Barbosa Correia Santiago,M,19,Salvador,"Rua Campo Maior, próximo ao Campo do Lasca",Massaranduba
+2/7/2020,Identidade Ignorada,M,NI,Camaçari,"Beco do Milho, Nova Vitória",Nova Vitória
+2/8/2020,Humberto Alves Brito,M,50,Candeias,"Rua da Areia, distrito Menino Jesus",Menino Jesus
+2/8/2020,Anderson Costa Santos,M,24,Itaparica,"Rua do Céu, Amoreiras",Amoreiras
+2/8/2020,Everton dos Santos Fernandes,M,26,Salvador,Em frente à Igreja Universal,São João do Cabrito
+2/8/2020,Bruno Santos da Cruz,M,27,Candeias,"Rua Velha do Conselho, BA 523, Nova Brasília de Candeias",Nova Brasília de Candeias
+2/9/2020,Eriberto Sipriano das Mercês,M,51,Salvador,Rua José Bonifácio,São Caetano
+2/9/2020,Identidade Ignorada,M,NI,Salvador,Rua Nilo Peçanha,Calçada
+2/9/2020,William Ramos da Conceição,M,18,Salvador,"Em via pública, sentido Águas Claras",Cajazeiras V
+2/9/2020,Uedson dos Santos Bispo,M,28,Salvador,Localidade conhecida como Lígia Maria,Marechal Rondon
+2/9/2020,Identidade Ignorada,M,22,Salvador,"Rua Dr. João Carlos Cavalcante, próximo à Igreja Cristo Redentor",Nordeste de Amaralina
+2/9/2020,Anderson Santos de Jesus,M,21,Salvador,Local conhecido como Madeirite,Fazenda Coutos 3
+2/9/2020,Jeferson Conceição dos Santos,M,22,Mata de São João,"Povoado de Pedra do Salgado, zona rural",NI
+2/9/2020,Rosenaldo Sabino da Silva,M,36,Salvador,"Rua Ligel, Parque Bela Vista",Brotas
+2/10/2020,Diego Macedo da Silva,M,27,Dias D'Ávila,"Alto do Campo, Rio Joanes, Jardim Futurama I",Jardim Futurama I
+2/10/2020,Identidade Ignorada,M,NI,Salvador,"1ª Travessa José Araújo, km 17, em um matagal no fundo do Parque de Exposições",Itapuã
+2/10/2020,B. S. dos S.,F,17,Salvador,Dentro do Parque São Bartolomeu,Ilha Amarela
+2/10/2020,G. de S. G.,M,16,Camaçari,Rua Direta do Sangradouro,Arembepe
+2/10/2020,Identidade Ignorada,M,NI,São Francisco do Conde,"Rua Oito de Maio, distrito de Santo Estevão",Santo Estevão
+2/10/2020,Identidade Ignorada,M,NI,Salvador,Rua Santo Antônio da Glória. Localidade conhecida como Brongo,IAPI
+2/10/2020,Identidade Ignorada,M,NI,Dias D'Ávila,Rua Professor Mário Padre Genário,NI
+2/11/2020,Rodrigo Coelho de Souza,M,29,Pojuca,"Bairro Shangrilá, Rua Alfredo Leite",Shangrilá
+2/11/2020,Romário Coelho dos Santos,M,31,Pojuca,"Bairro Shangrilá, Rua Alfredo Leite",Shangrilá
+2/11/2020,Leandro dos Santos Batista,M,19,Candeias,"Passagem dos Teixeiras, localidade conhecida como Cajueiro",Passagem dos Teixeiras
+2/11/2020,Juan de Souza Brandão,M,27,Dias D'Ávila,Praça Raul Seixas,NI
+2/11/2020,Identidade Ignorada,M,NI,Salvador,Rua Itaquaracy. Entrada do Dique do Cabrito,Alto do Cabrito
+2/12/2020,Alberto Sacramento Alves,M,22,Vera Cruz,"Gamboa, Rua do Mercado Verdes Mares",Gamboa
+2/12/2020,Identidade Ignorada,M,NI,Salvador,"Rua Manoel Rosa, imediações do Shopping Cajazeiras",Cajazeiras
+2/12/2020,Felipe de Jesus Santos,M,28,Salvador,Rua Recanto de São Rafael (referente tentativa de homicídio dia 04/02/2020),São Rafael
+2/12/2020,Denilson dos Santos de Jesus,M,21,Salvador,Campo do Vale das Pedrinhas,Vale das Pedrinhas
+2/12/2020,Antonio Jorge de Souza Gomes Júnior,M,44,Salvador,"Avenida Barros Reis, defronte à concessionária de veículos Fiori",Avenida Barros Reis
+2/12/2020,Identidade Ignorada,M,NI,Salvador,"Rua Oscar Seixas, ao lado do Parque São Bartolomeu",Pirajá
+2/13/2020,Jailson Galdino Souza dos Santos,M,27,Salvador,Avenida Jorge Amado,Imbuí
+2/13/2020,Elias Dias Santos,M,25,Vera Cruz,Localidade Tairu,Tairu
+2/13/2020,Matheus Jesus Ferreira,M,24,Simões Filho,"Rua Baixa da Torre, via pública, próximo da Igreja Universal, localidade de Mapele",Mapele
+2/13/2020,C. F. G.,M,17,Dias D'Ávila,"Rua do Paraíso, Vila Petrópolis",Vila Petrópolis
+2/13/2020,H. C.,M,17,Camaçari,Pé de Areia (entrada no Hospital na data 12/02/2020),Jauá
+2/14/2020,Identidade Ignorada,M,NI,Salvador,Rua Frederico Costa,Periperi
+2/14/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Via Metropolitana, próximo ao Hospital Metropolitano",NI
+2/14/2020,Antônio Rodrigues da Silva dos Santos,M,40,Simões Filho,Ilha de São João,Ilha de São João
+2/14/2020,Jandira Mendes de Souza,F,50,Salvador,"Estrada CIA, sentido Ceasa",Cassange
+2/14/2020,Vitor Gabriel Santos de Jesus,M,19,Salvador,"Rua Silvino Pereira, próximo ao Mini Posto de gás",Uruguai
+2/14/2020,Joab Menezes da Silva,M,35,Camaçari,"Conjunto Andorinha, Jardim Limoeiro",Jardim Limoeiro
+2/14/2020,Acauan Lucas de Oliveira Salles,M,18,Salvador,"Rua Levino Amorim, próximo à Rádio Cultura",Daniel Lisboa
+2/15/2020,Identidade Ignorada,F,NI,Salvador,"Rua Osvaldo Cruz, região conhecida como Barro Vermelho",Ilha Amarela
+2/15/2020,Identidade Ignorada,M,NI,Simões Filho,"Rua do Sossego, Estrada de Aratu, Ilha de São João",Ilha de São João
+2/15/2020,Identidade Ignorada,M,NI,Simões Filho,"Rua do Sossego, Estrada de Aratu, Ilha de São João",Ilha de São João
+2/15/2020,Identidade Ignorada,M,NI,Salvador,"Rua Marquês de Maricá, em frente à Maternidade José Maria de Magalhães",Pau Miúdo
+2/15/2020,Ícaro Vitório Sousa Santos,M,18,Candeias,"Rua Nova, mesma rua do Posto de Gasolina Caxias",NI
+2/16/2020,Cássia Ribeiro da Conceição,F,39,Salvador,Rua Raul Gil,Sussuarana
+2/16/2020,Identidade Ignorada,F,NI,Salvador,"Em via pública da Rua Alameda dos Ipês, após o posto BR",Horto Florestal
+2/16/2020,Jessi Santiago dos Santos,F,29,Salvador,"Avenida Reitor Miguel Calmon, em frente a um campo de futebol",Canela
+2/16/2020,Maria das Graças Costa Soares,F,43,Salvador,Av. Edgard Santos,Narandiba
+2/16/2020,Identidade Ignorada,M,NI,Salvador,"Colinas de Pituaçu, Rua Carlos Marighella",São Marcos
+2/16/2020,Identidade Ignorada,M,NI,Salvador,Rua Vitória,Parque São Cristóvão
+2/16/2020,Regisson dos Santos da Silva,M,31,Candeias,"Rua Estrada Velha do Conselho, Nova Brasília",Nova Brasília
+2/16/2020,João Gabriel Cruz Gonçalves de Melo,M,18,Candeias,"Rua Estrada Velha do Conselho, Nova Brasília",Nova Brasília
+2/17/2020,Arlan Almeida da Conceição,M,35,Salvador,"Estrada das Barreiras, em frente ao Hotel Extasy",Cabula
+2/17/2020,Thiago dos Santos de Souza,M,30,Salvador,"Rua Luciano Gomes, Bloco 04",Jardim Cajazeiras
+2/17/2020,G. da C. dos S.,M,17,Candeias,Passagem dos Teixeiras,Passagem dos Teixeiras
+2/17/2020,Cleiton Coneição dos Santos,M,19,Candeias,Passagem dos Teixeiras,Passagem dos Teixeiras
+2/18/2020,Eridam Pereira dos Santos,F,22,Salvador,2ª Travessa União,Lobato
+2/18/2020,José Carlos Oliveira Silva,M,27,Candeias,"Estrada Vicinal, Boca da Mata",Boca da Mata
+2/18/2020,Emerson Santos Silva,M,26,Salvador,"Mangaba de Baixo, Av. Nascente do Sol",Sussuarana Velha
+2/18/2020,Identidade Ignorada,M,NI,Salvador,"Rua Santo Antônio, ao lado da Igreja Católica",Plataforma
+2/18/2020,Identidade Ignorada,M,NI,Camaçari,Rua Direta da Embasa,NI
+2/18/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Av. Petrópolis, Bosque III",Bosque III
+2/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua José Muniz, ao lado do Colégio Líder",Jardim Santo Inácio
+2/19/2020,M. E. C. F.,F,7,Camaçari,"Parque das Mangabas, Terceira Etapa E, em frente ao terreiro de Pai Diogo",Parque das Mangabas
+2/19/2020,Mateus Sousa Sobral,M,21,Simões Filho,"Localidade da Pitanguinha Velha, Pitanguinha",Pitanguinha
+2/20/2020,Rodrigo Santos Brito,M,27,Salvador,"Rua Alfredo do Vale Cabral, em frente ao Conjunto Habitacional Bahia",Santa Mônica
+2/20/2020,Edson dos Santos Alcântara,M,22,Camaçari,"Rua da Caixa D'Água, Camaçari de Dentro",Camaçari de Dentro
+2/21/2020,Carlos Eduardo Bessa Batista,M,23,Salvador,"Rua Livia Giffoni, atrás do Supermercado Extra Rótula do Abacaxi",Brotas
+2/21/2020,Cida Paixão Lisboa,F,26,Camaçari,"Loteamento Jardim Eldorado, BA 099, Km 32",Barra do Jacuípe
+2/21/2020,Fabiane Rodrigues Nascimento,F,24,Salvador,Parque São Cristóvão,São Cristóvão
+2/21/2020,Identidade Ignorada,M,NI,Salvador,Parque São Cristóvão,São Cristóvão
+2/22/2020,Eduardo Xavier dos Santos,M,29,Camaçari,"Caminho do Rio II, Rua Recanto do Pardal, Cetrel, Barra de Jacuípe",Barra do Jacuípe
+2/22/2020,Identidade Ignorada,M,NI,Salvador,"Rua Jessina de Brito, sentido ao bairro Pirajá, área de Mata Atlântica e preservação ambiental",Parque São Bartolomeu
+2/22/2020,Nabir Oliveira Barros,M,42,São Sebastião do Passé,Bairro Lamarão,Lamarão
+2/22/2020,L. G. S. N.,M,17,Lauro de Freitas,"Portão, Vila Nova, Caminho F",Portão
+2/22/2020,Antônio Marcos Silva Moreira,M,39,São Sebastião do Passé,Jangada,Jangada
+2/22/2020,Identidade Ignorada,M,NI,Salvador,"Rua Paulo Sérgio, Vila Mar",Estrada Velha do Aeroporto
+2/22/2020,Identidade Ignorada,M,NI,Salvador,"Rua Valdemar Magalhães Matos, em frente ao ginásio poliesportivo",Fazenda Grande II
+2/22/2020,Identidade Ignorada,M,NI,Salvador,"Rua F, próximo do Centro Social Urbano",Castelo Branco
+2/22/2020,Exequiel dos Santos Lima,M,28,Lauro de Freitas,"Rua dos Vereadores, Jockey Clube",NI
+2/23/2020,Identidade Ignorada,M,NI,Salvador,"Rua Thomaz Gonzaga, próximo ao final de linha",Pernambués
+2/23/2020,Identidade Ignorada,M,NI,Salvador,"Rua Thomaz Gonzaga, próximo ao final de linha",Pernambués
+2/23/2020,Elaine da Silva Araújo,F,33,Salvador,"Rua Thomaz Gonzaga, próximo ao final de linha",Pernambués
+2/23/2020,Identidade Ignorada,M,NI,Salvador,Avenida Aliomar Baleeiro,Mussurunga
+2/24/2020,Identidade Ignorada,M,NI,Simões Filho,"Praça da bandeira, Centro",Centro
+2/25/2020,Renato Conceição de Santana,M,29,São Francisco do Conde,Mercado Central,NI
+2/25/2020,Vicente Jerônimo da Silva,M,64,Simões Filho,"Avenida Elmo Serejo de Farias, via pública, localidade de Riacho Doce, CIA II",CIA II
+2/25/2020,Identidade Ignorada,M,NI,Salvador,"Estrada BA 526, km 21, após a fábrica de pão Limiar",Jardim das Margaridas
+2/26/2020,Identidade Ignorada,F,NI,Salvador,"Praia de Piatã, atrás das dunas e próximo ao Palco do Rock",Piatã
+2/26/2020,Eduardo Vieira Miranda,M,43,Salvador,Rua São Lázaro,Nova Brasília / Estrada Velha do Aeroporto
+2/26/2020,Paulo Lázaro de Araújo Filho,M,42,Mata de São João,"Via pública, Rua Vital Brasil, Caboré",Caboré
+2/26/2020,Marcos Oliveira Brito,M,30,Lauro de Freitas,"Rua Adalice B. Fonseca, Itinga",Itinga
+2/27/2020,Silvio Gomes Soares Junior,M,19,São Sebastião do Passé,"Rua Francisco Barros, São Roque",São Roque
+2/27/2020,Identidade Ignorada,M,NI,Salvador,"Rua B, depois do final de linha",Bela Vista do Lobato
+2/27/2020,Identidade Ignorada,M,NI,Salvador,Rua Lígia Maria,Marechal Rondon
+2/27/2020,Vagner Nogueira dos Santos,M,30,Camaçari,"Rua Alto dos Noivos, Bairro dos 46",Bairro dos 46
+2/27/2020,Vladimário dos Santos Silva,M,34,Camaçari,"Rua Alto dos Noivos, Bairro dos 46",Bairro dos 46
+2/28/2020,Identidade Ignorada,M,NI,Salvador,"Rua Antenor Maia Cardoso, Calafate",Fazenda Grande do Retiro
+2/28/2020,Mário César Santos Freitas,M,47,Camaçari,"Estrada do acesso do Verde Valle, Ponto Certo",Ponto Certo
+2/28/2020,Jackson Meireles Perreira,M,38,Salvador,Rua Yolanda Pires,São Cristóvão
+2/28/2020,Denilson Santiago dos Santos,M,38,Camaçari,"Rua do Lava Jato Santiago, Burissatuba",Burissatuba
+2/28/2020,Edivaldo Jesus dos Santos,M,40,Lauro de Freitas,Jardim Carumã,Itinga
+2/29/2020,Identidade Ignorada,M,NI,Salvador,Rua dos Pirineus,Pau Miúdo
+2/29/2020,Identidade Ignorada,M,NI,Salvador,"Travessa Santa Luzia, próximo ao Point Gospel",Uruguai
+2/29/2020,Identidade Ignorada,M,NI,Salvador,Rua das Hortas,Alto do Cabrito
+2/29/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Rua Getúlio Vargas, entroncamento da BA-093",NI
+2/29/2020,Identidade Ignorada,M,NI,Simões Filho,Localidade conhecida como,NI
+2/29/2020,Isac Café Santos Mota,M,24,Salvador,Rua não informada,Fazenda Coutos
+2/29/2020,Sidnei Cerqueira Lima,M,25,Dias D'Ávila,"Entroncamento de Camaçari, Futurama I",Futurama I
+2/29/2020,Identidade Ignorada,M,NI,Salvador,"Via pública, Ladeira da Barragem",Cassange
+2/29/2020,Daniel Pereira Conceição,M,25,Candeias,"Rua Brandão de Baixo, Caboto",Caboto
+2/29/2020,Josias Almeida Souza,M,27,São Francisco do Conde,"1ª Travessa Rodolfo Tourinho, Centro",Centro
+3/1/2020,Géssica Santos Silva,F,24,Salvador,"Rua Craíbas, próximo ao Colégio Santa Bárbara",Vila Rui Barbosa
+3/1/2020,Diego Xavier do Nascimento,M,29,Salvador,"Rua 08 de Maio, descida da Igreja Assembleia de Deus",Periperi
+3/1/2020,Identidade Ignorada,F,NI,Salvador,"*Referente desaparecimento dia 14/02/2020, procedente da Estrada do CIA, em uma lagoa",São Cristóvão
+3/1/2020,Identidade Ignorada,M,NI,Salvador,"*Referente desaparecimento dia 14/02/2020, procedente da Estrada do CIA, em uma lagoa",São Cristóvão
+3/1/2020,M. das D.,M,17,Lauro de Freitas,"Rua do Meio, próximo ao campo do Pela Porco, Itinga",Itinga
+3/1/2020,Identidade Ignorada,M,NI,Salvador,"Rua Guaratinga, Baixa Fria",Boca do Rio
+3/1/2020,Arthus Teles Casais,M,67,Camaçari,"Condomínio Enseada do Jacuípe, Quadra 3, Lote 2, ao lado do posto Menor Preço, Barra de Jacuípe",Barra de Jacuípe
+3/1/2020,Identidade Ignorada,F,NI,Lauro de Freitas,"Praça dos Coqueiros, ao lado da Escola Municipal Vida Nova",Vida Nova
+3/1/2020,Valmir Oliveira de Almeida,M,37,Camaçari,"Rua Direta da Cordoaria, Vilas de Abrantes",Vilas de Abrantes
+3/2/2020,Identidade Ignorada,M,NI,Mata de São João,Rua Direta do Barro Branco,Imbassaí
+3/2/2020,Jaelson Ãngelo de Souza Diniz,M,42,Dias D'Ávila,"Rua Beta, entrada da Indaía",NI
+3/2/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Futurama I, às margens do Rio Joanes",Futurama I
+3/2/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Futurama I, às margens do Rio Joanes",Futurama I
+3/2/2020,Vitor Manoel da Silva de Jesus Passos,M,19,Salvador,Rua Novo Paraíso,Boca do Rio
+3/2/2020,Identidade Ignorada,M,NI,Salvador,"Rua São Jorge de Baixo, Vila Verde",Estrada Velha do Aeroporto
+3/2/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Rua Carlos Oliveira, em frente à fábrica de gelo, localidade de Vida Nova",Vida Nova
+3/2/2020,Identidade Ignorada,M,NI,Salvador,"Estrada do Derba, após a entrada do Hospital do Subúrbio",Estrada do Derba
+3/2/2020,Antônio Diego Santiago dos Santos,M,22,Camaçari,"Rua Esmerindo Neto, localidade Morrinho",Barra de Pojuca
+3/2/2020,Uélinton dos Santos da Silva,M,19,Salvador,Rua do Marotinho,Fazenda Grande do Retiro
+3/2/2020,Vinícius Rodrigues dos Anjos,M,20,Candeias,"Rua das Flores, Caroba",Caroba
+3/3/2020,L. S. da S.,M,15,Salvador,"Via pública, Alameda 51",Jardim Santo Inácio
+3/3/2020,Valter Santana da Purificação Júnior,M,26,Camaçari,"Rua Vênus II, Gravatá",Gravatá
+3/4/2020,Gustavo Pereira de Jesus,M,19,Salvador,"Estrada Velha do Aeroporto, em frente ao Cemitério Bosque da Paz",Nova Brasília / Estrada Velha do Aeroporto
+3/4/2020,Identidade Ignorada,M,NI,Camaçari,"Avenida Rio Camaçari, bairro: Camaçari de Dentro",Camaçari de Dentro
+3/4/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Afrânio Peixoto, próximo à garagem da empresa Praia Grande",Rio Sena
+3/4/2020,Neilton Conceição de Jesus,M,25,Salvador,"Caminho 15, Quadra B, após Mercado Municipal",Fazenda Grande I
+3/4/2020,Euller Santos de Freitas,M,19,Salvador,"Rua Mello Morais Filho, em frente à Igreja Universal",Fazenda Grande do Retiro
+3/4/2020,R. S. da C.,M,15,Camaçari,"Na entrada da Reserva Apuã, atrás do Alphaville Litoral Norte",Abrantes
+3/5/2020,Identidade Ignorada,M,NI,Salvador,"Rua São Cristóvão, em frente à Escola Municipal Edite Dantas",Sussuarana
+3/5/2020,U. da C. dos S.,M,17,Salvador,Rua 1º de Maio,Alto da Terezinha
+3/5/2020,Edvaldo Conceição dos Santos,M,24,Vera Cruz,"Rua Olímpio, Tairu",Tairu
+3/5/2020,Fábio de Souza Pinto,M,39,Dias D'Ávila,"Jardim Futurama II, Aldeia",Jardim Futurama II
+3/5/2020,André Luiz Pereira Lisboa,M,33,Dias D'Ávila,"Jardim Futurama II, Aldeia",Jardim Futurama II
+3/5/2020,Identidade Ignorada,M,NI,Salvador,Rua Eng. Raiundo Carlos Neri,Cajazeiras XI
+3/5/2020,Identidade Ignorada,M,NI,Salvador,Rua Irmã Dulce,Nordeste de Amaralina
+3/5/2020,Identidade Ignorada,F,NI,Salvador,"Rua Paraíba, Travessa São Luis",Tancredo Neves
+3/6/2020,Anderson Cardoso Santos,M,23,Camaçari,"BA-535, próximo ao acostamento, antes do ponto do Correio",Via Parafuso
+3/6/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Areal de Cidinho, Parque São Paulo, Itinga",Itinga
+3/6/2020,Identidade Ignorada,M,NI,Salvador,Rua Doutor Vicente Curvelo,São Caetano
+3/6/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Vila Vale, Baixa da Égua",Engenho Velho da Federação
+3/6/2020,Identidade Ignorada,M,NI,Salvador,"Vila Antônio Balbino, Brongo, entrada do posto Shell",IAPI
+3/6/2020,Marcos Vinícius dos Santos Silva,M,18,Lauro de Freitas,"Rua 2 de Julho, Rua Direta do Capelão, Itinga",Itinga
+3/7/2020,Identidade Ignorada,M,NI,Salvador,Entrada da rodoviária,Pernambués
+3/7/2020,Identidade Ignorada,M,NI,Salvador,"Em via pública, Tv. Aída Celeste, atrás do presídio e em frente à quadra de esporte",Sussuarana
+3/7/2020,Maíque Sousa de Jesus,M,23,Salvador,"Em via pública da BR-324, Estrada de Campinas de Pirajá",Pirajá
+3/7/2020,Ricardo Macedo dos Santos,M,26,Candeias,"Em via pública da BA-522, próximo ao ginásio de esporte",NI
+3/7/2020,Maysson Ferreira da Silva,M,18,Camaçari,"Rua Costa Amarela, Verde Horizonte",Verde Horizonte
+3/7/2020,Identidade Ignorada,M,NI,Salvador,Rua Petrolina Précia,Valéria
+3/8/2020,Jacson da Silva Azevedo,M,28,Salvador,Rua Baixa do Santo Antônio,São Gonçalo do Retiro
+3/8/2020,Gustavo Amparo dos Santos,M,24,Camaçari,"Avenida do Canal, Parque Satélite",Parque Satélite
+3/8/2020,Identidade Ignorada,M,NI,Salvador,Em via pública da Rua Ottacilho das Virgens (Inferninho),Marechal Rondon
+3/8/2020,Identidade Ignorada,M,NI,Salvador,Rua do Cajueiro,Escada
+3/8/2020,José Márcio Brito Santos,M,19,Salvador,Referente a tentativa de homicídio 05/03,Sussuarana
+3/8/2020,Edivaldo Parafuassu dos Santos,M,45,Dias D'Ávila,"Em via pública, na Barrragem Santa Helena",NI
+3/8/2020,Jocenilton de Jesus Santos,M,21,Camaçari,Rua Direta de Itaipú,Monte Gordo
+3/8/2020,Flávio Souza dos Santos,M,20,Camaçari,Rua Direta de Itaipú,Monte Gordo
+3/8/2020,Luis Fernando Santos Bonfim,M,31,Salvador,"Em via pública, em frente à igreja católica Santo Antônio",Sussuarana Velha
+3/8/2020,Identidade Ignorada,F,NI,Salvador,"Rua Neide, atrás da Oficina São Judas Tadeu",Engenho Velho da Federação
+3/8/2020,José Luís Barreto da Silva,M,50,Salvador,"Rua Santa Veruza, via pública - referente a tentativa de homicídio às 00h10",Pernambués
+3/8/2020,Edson Fernando Cardoso,M,41,Salvador,"Rua Oeste Um, campo de futebol",Parque São Cristóvão
+3/8/2020,Identidade Ignorada,M,NI,Salvador,"Rua General Andréa, em frente ao Bradesco",Mares
+3/9/2020,J. V. dos S. S.,M,16,Lauro de Freitas,"Travessa Fernando Santos Correia, Centro",Centro
+3/9/2020,Francisco Antonio Gomes do Lago Junior,M,35,Salvador,RuaRua Direta do Uruguai (ref. A tentativa de homicídio na data 06/03/2020),Uruguai
+3/9/2020,Maurício Pereira dos Santos,M,25,Lauro de Freitas,Rua Niço Peçanha,Vila Praiana
+3/9/2020,Elberte Vieira das Neves,M,36,Dias D'Ávila,"Rua C, Quadra I, Bosque",Bosque
+3/9/2020,Identidade Ignorada,M,NI,Salvador,Rua São Francisco,Jardim Santo Inácio
+3/10/2020,Iago Mascarenhas Santos,M,26,Salvador,Rua Melo Morais,Fazenda Grande do Retiro
+3/10/2020,Ana Paula Jesus dos Santos,F,24,Candeias,"Distrito de Caroba, em frente à igreja Assembleia de Deus",Caroba
+3/10/2020,Lais Alves da Conceição,F,27,Salvador,"Rua do Centro de Recuperação, atrás da estação de metrô de Pirajá",Calabetão
+3/11/2020,Adilson Silva de Santana,M,28,Salvador,"Rua São Mateus, final de linha da Cocisa",Paripe
+3/11/2020,Rielson Resende dos Reis,M,36,São Sebastião do Passé,"Rua Jairo Lago, Nova Brasília",Nova Brasília
+3/11/2020,Adriana Fonseca dos Santos,F,24,Salvador,Rua Lessa Ribeiro,São Cristóvão
+3/12/2020,Djair Marcio dos Santos,M,35,Pojuca,"Distrio de Palmeira de Cima, zona rural",Palmeira de Cima
+3/12/2020,Nicolas Henrique Lopes Matos,M,18,Salvador,"Conjunto Habitacional Lagoa da Paixão, Caminho 16",Nova Brasília de Valéria
+3/12/2020,Victória Stéphanie Barreto Campos,F,21,Salvador,"Av. Mário Leal Ferreira, via pública",Bonocô
+3/13/2020,Joice Santos de Moraes,F,24,Salvador,"Via pública, Parque Jocélia",Sussuarana
+3/13/2020,Identidade Ignorada,M,NI,Salvador,Alameda Oscar Cruz,São Marcos
+3/13/2020,Antônio Carlos da Silva Filho,M,43,Salvador,"Rua do Curuzu, Avenida Rita",Liberdade
+3/13/2020,Alefi Fraga Pinheiro,M,25,Lauro de Freitas,"Rua João do Carmo de Souza, Itinga",Itinga
+3/13/2020,Dijanderson Souza Dias,M,28,Salvador,(Referente entrada no hspital na data 09/03/2020),Mares
+3/14/2020,Tancredo Nascimento Moura,M,18,Camaçari,Rua Nunes de Matos,Centro
+3/14/2020,Uesley de Araújo Nascimento,M,21,Camaçari,"Travessa Machado de Assis, localidade conhecida como Lama Preta",Lama Preta
+3/14/2020,Identidade Ignorada,M,NI,Salvador,Em via pública,Barbalho
+3/14/2020,Luciano Régis Sousa Júnior,M,32,Salvador,"Rua 7 de Janeiro, em frente à igreja Assembleia de Deus",Cidade Nova
+3/15/2020,Identidade Ignorada,M,NI,Salvador,Via pública,Pau da Lima
+3/15/2020,Alex Oliveira Nunes,M,41,Salvador,Entrada no HGE no dia 13/03/2020 - procedente da Praça da Sé,Praça da Sé
+3/15/2020,Identidade Ignorada,M,NI,Salvador,Rua Afonso Barbuda,Bonfim
+3/15/2020,Identidade Ignorada,M,NI,Salvador,Rua não informada,São Cristóvão
+3/15/2020,Identidade Ignorada,F,NI,Salvador,"Rua Maestro Antônio do Espírito Santo, Areal",Ribeira
+3/15/2020,Reinan dos Reis Santos,M,19,Dias D'Ávila,"5ª Travessa Portugal, Urbis",Urbis
+3/15/2020,Émerson Araújo da Silva,M,22,Salvador,"Rua Fernandes Mascarenhas, em frente ao campo da Pronaica",Cajazeiras X
+3/15/2020,Identidade Ignorada,M,NI,Salvador,"Rua Monte Ipitanga, próximo ao campo da Britinha, Ponto 11",Cajazeiras XI
+3/15/2020,D. O. da S.,F,11,Salvador,Rua Santíssima Trindade,Sussuarana Velha
+3/16/2020,Identidade Ignorada,M,NI,Salvador,"Rua Travasso do Meio, Cond. Residencial Mirantes do Bonfim",Bonfim
+3/16/2020,Identidade Ignorada,M,NI,Salvador,"Rua Santíssima Trindade, atrás do Condomínio Viver Melhor 2",Sussuarana
+3/16/2020,Eduardo Araújo Silva,M,27,Candeias,"Via Matoim, ao lado do Porto Aratu",NI
+3/17/2020,Identidade Ignorada,F,NI,Salvador,"Av. Afrânio Peixoto, em frente à Igreja Universal",Lobato
+3/17/2020,José Edivaldo Costa Caiano,M,58,Dias D'Ávila,Distrito de Leandrinho,Leandrinho
+3/18/2020,Identidade Ignorada,M,NI,Salvador,Rua Guilherme Dias,Alto do Peru
+3/18/2020,Matheus Santos Pereira,M,21,Salvador,Rua Rio do Lírio,Rio Sena
+3/18/2020,Identidade Ignorada,M,NI,Salvador,"Rua Portão Vermelho, rua que fica atrás da Igreja Quadrangular",Alto do Peru
+3/19/2020,José Lourenço da Silva Filho,M,35,Pojuca,"Rua do Cajuzinho, em frente ao Restaurante Sabor do Sertão",NI
+3/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua 23 de Março, defronte ao supermercado Boigran",Tancredo Neves
+3/19/2020,Márcio de Melo Silva,M,48,Salvador,Final de linha,Saboeiro
+3/19/2020,Airan de Almeida Mendes,M,23,Salvador,Rua Tenente Gustavo dos Santos,Boca do Rio
+3/19/2020,Ademário dos Santos únior,M,34,Salvador,"Avenida Peixe, próximo ao Largo",Pero Vaz
+3/19/2020,Identidade Ignorada,F,NI,Salvador,"3ª Travessa do Cajueiro, após o Mercado União",Nova Brasília de Itapuã
+3/19/2020,Reidiran dos Santos Costa,M,26,Mata de São João,"Rua Deraldo Freitas, distrito de Baixios",Baixios
+3/20/2020,Cléber Santos Silva,M,25,Dias D'Ávila,"Travessa 1º de Janeiro, Concórdia",Concórdia
+3/20/2020,Identidade Ignorada,M,NI,Salvador,"Rua Thomaaz Gonzaga, em frente ao depósito de bebidas Pereira",Pernambués
+3/20/2020,Identidade Ignorada,M,NI,Simões Filho,"Rodovia BA-093, km 7, via pública, estrada de chão",NI
+3/21/2020,W. P. de S.,M,15,Candeias,"Rua da linha, Fazenda Mamão",Fazenda Mamão
+3/21/2020,Franklin do Santos Brito,M,29,Salvador,"Rua Promotor Rapold Filho, Formiga",São Caetano
+3/21/2020,Ramon dos Santos,M,37,Salvador,"Estrada Velha, entroncamento em Mussurunga e São Cristóvão",Mussurunga
+3/21/2020,Identidade Ignorada,M,NI,Simões Filho,"BA 093, Mirim I",Mirim I
+3/21/2020,Josemar Batista da Silva,M,21,Salvador,"Rua Coronel Azevedo, após o Condomínio Colina Solar",Cajazeiras II
+3/22/2020,Elielson dos Santos Machado,M,26,Lauro de Freitas,"Localidade de Quingoma, próximo ao Hospital Metropolitano",Quingoma
+3/22/2020,Florisvaldo Barbosa Júnior,M,26,Salvador,"Rua Maria Cerqueira Lima, Loteamento Santo Antonio",Cajazeiras XI
+3/22/2020,Junio Lima de Moura Soares,M,22,Salvador,Avenida Gal Costa,Sussuarana
+3/22/2020,Matheus dos Santos Souza,M,22,Itaparica,"2ª Travessia São Vicente, Alto das Pombas",Alto das Pombas
+3/22/2020,Adeodato Soares Arcanjo Neto,M,20,Salvador,Rua 2,Mirantes de Periperi
+3/22/2020,Fábio de Souza Muniz,M,38,Dias D'Ávila,Conjunto Habitacional Bosque III,Bosque III
+3/23/2020,Identidade Ignorada,F,NI,Salvador,"Rua Recife, depois da Escola 8 de Dezembro",Periperi
+3/24/2020,Maricleusa Braga Santos,F,27,Salvador,Rua Itajaí,Marechal Rondon
+3/24/2020,Adailton Amorim dos Santos Alves,M,23,Salvador,Rua Daniel Além,Mirantes de Periperi
+3/24/2020,Identidade Ignorada,M,NI,Salvador,"Ladeira da Preguiça, via pública",Dois de Julho
+3/24/2020,Identidade Ignorada,M,NI,Salvador,"Rotatória próxima ao Hospital Juliano Moreira, via pública",Cabula
+3/25/2020,Identidade Ignorada,M,NI,Salvador,Rua 15 de Abril,Pernambués
+3/25/2020,Victor Vinícius Morais Silva,M,20,Salvador,Travessa Bahia,Fazenda Grande do Retiro
+3/25/2020,Cleomar Almeida Silva,M,30,Camaçari,"Rua dos Lírios, PHOC I",PHOC I
+3/25/2020,Identidade Ignorada,M,NI,Salvador,Baixinha de Santo Antônio,São Gonçalo do Retiro
+3/25/2020,Identidade Ignorada,M,NI,Salvador,Rua José Monteiro,Sussuarana
+3/26/2020,Identidade Ignorada,F,NI,Salvador,Rua da Alegria,Curuzu
+3/26/2020,Gabriel Azevedo Santana,M,23,Salvador,Rua da Estrada do Cabrito,São João do Cabrito
+3/26/2020,Samuel dos Santos Andrade,M,24,Salvador,Travessa Senhor do Bonfim,São João do Cabrito
+3/26/2020,Rafaelle Carneiro dos Santos,M,37,Camaçari,"Localidade conhecida como 'Cordoaria', Jambeiro, Catu de Abrantes",Catu de Abrantes
+3/27/2020,Identidade Ignorada,M,NI,Salvador,Rua do Paquistão,Jardim Santo Inácio
+3/27/2020,Identidade Ignorada,M,NI,Simões Filho,"Avenida Hermínio, zona rural",NI
+3/27/2020,João da Conceição Alves,M,52,Lauro de Freitas,Vida Nova,Itinga
+3/27/2020,Uilvonei dos Santos,M,41,Salvador,"4ª Travessa Machado de Assis, rua da Escola Mestre Álvaro dos Anjos",Bairro da Paz
+3/28/2020,Deivisson Santos de Araújo,M,22,Salvador,Avenida Santo Antônio,Largo do Tanque
+3/28/2020,Roberte Carvalho dos Santos Lins,M,34,Salvador,Rua do Céu,Liberdade
+3/28/2020,Luan Mendes dos Santos,M,20,Dias D'Ávila,Entrada no hospital dia 06/03 - procedente do bairro da Concórdia em via pública,Concórdia
+3/28/2020,André Conceição Santos,M,31,Salvador,Entrada na UPA de Itapuã dia 27/03 às 22h56 - procedente da Rua da Cacimba,Itapuã
+3/28/2020,E. F. dos R.,M,14,Camaçari,Rua do Areal,NI
+3/28/2020,Luan de Jesus Sousa,M,24,Salvador,Entrada que dá acesso à Fonte do Capim,San Martin
+3/28/2020,Uanderson Ventura dos Santos,M,37,Simões Filho,"Rua Edson Almeida, bairro Barreiro",Barreiro
+3/29/2020,Caio de Freitas Araújo,M,23,Itaparica,Conjunto Habitacional Urbis,NI
+3/29/2020,Identidade Ignorada,M,NI,Salvador,Rua Cândido Fernandes,Fazenda Grande do Retiro
+3/29/2020,Rodrigo Santos Ferreira,M,19,Salvador,"Rua das Pedrinhas, antes da subida de Mirantes de Periperi",Periperi
+3/29/2020,Identidade Ignorada,M,NI,Simões Filho,"Forja Nordeste, via pública, CIA Sul",CIA Sul
+3/29/2020,Eric Vinicius Souza Santos,M,25,Salvador,"Matagal na Rua Daniel Além, antes do campo da baixada",Mirantes de Periperi
+3/29/2020,Identidade Ignorada,M,NI,Salvador,Avenida Santo Antônio,Liberdade
+3/29/2020,Identidade Ignorada,M,NI,Salvador,Avenida Assis Valente,Cajazeiras
+3/30/2020,Alexandro Silva Santos,M,30,Salvador,Rua Eugênio Pereira de Jesus,Sussuarana
+3/30/2020,Albert Natividade Silva,M,21,Camaçari,"Entrada no HGC no dia 29/03/2020 - procedente da Rua do Tanque, Itaipu, Monte Gordo",Monte Gordo
+3/31/2020,José Augusto Martins Vilela,M,34,Salvador,"Rua Praça Afro Brasil, ao lado da Luza Cosméticos",Massaranduba
+3/31/2020,C. C. D.,M,17,Salvador,Rua Muniz Travasso,Alto de Coutos
+3/31/2020,Luciano Mendes de Jesus,M,25,Salvador,Rua Cristóvão Barreto,Fazenda Coutos
+3/31/2020,Identidade Ignorada,M,NI,Salvador,Travessa Diogo Fernandes Rosa,Sussuarana
+3/31/2020,Identidade Ignorada,M,NI,Salvador,"Rua Pedro Cachoeira, ao lado da Igreja Matriz",São Cristóvão
+3/31/2020,Identidade Ignorada,M,NI,Salvador,"Travessa Osório Vilas Boas, ao lado da empresa Franca Caminhões",Campinas de Pirajá
+3/31/2020,H. S. dos S.,M,17,Dias D'Ávila,"Rua D, Condomínio Residencial Bosque II",Bosque II
+3/31/2020,Judiceia Cardoso de Pia,F,40,Salvador,"Rua São Tomé, em frente ao Colégio Filho de Salomão",Campinas de Pirajá
+4/1/2020,Luciano dos Santos Reis,M,42,Salvador,"Rua Clóvis de Almeida Maia, entrada do Saveiro Clube",Ribeira
+4/1/2020,Marcos Henrique Santana da Silva,M,18,Camaçari,"Rua do Toco, PHOC III",PHOC III
+4/1/2020,Ian de Albuquerque Machado,M,23,Salvador,"Localidade conhecida como Sussunga Velha, em frente ao antigo Bompreço",São Caetano
+4/2/2020,Leandro de Jesus Silva,M,30,Salvador,Rua Álvaro Ramo Batista,Águas Claras
+4/2/2020,Orlando Martins,M,52,Salvador,Rua Lígia Maria,Marechal Rondon
+4/2/2020,Identidade Ignorada,M,NI,Salvador,"BR 324, Rod. A, Boa Vista de São Caetano, viaduto em construção",Boa Vista do Lobato
+4/2/2020,José Domingos Bispo de Oliveira,M,41,Camaçari,"Ref. A entrada no HGE no dia 31/03/2020 às 20h49, procedente do: Condomínio Morada dos Canários, Limoeiro",Limoeiro
+4/2/2020,Dêivide Cisne Alcântara,M,21,Salvador,"Rua Joaquim Ferreira, Residencial das Margaridas",Jardim das Margaridas
+4/2/2020,Matias Silva Campos,M,61,Camaçari,"3ª Travessa Emiliano Zapata, Nova Vitória",Nova Vitória
+4/2/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Vila Nova de Portão, Portão",Portão
+4/3/2020,José Carlos da Anunciação,M,51,Salvador,"Rua Mabaço de Cima, nº 179, em frente à Panificadora Silva",Plataforma
+4/3/2020,Identidade Ignorada,M,NI,Candeias,"Passagem dos Teixeiras, acima do viaduto",Passagem dos Teixeiras
+4/3/2020,Emerson da Silva Vitório,M,23,Salvador,Referente a T. H. do dia 30.03.2020 - procedente da Rua Eugênio Pereira de Jesus,Sussuarana
+4/3/2020,Identidade Ignorada,M,NI,Candeias,"Rua Novo Horizonte, Dom Avelar",Dom Avelar
+4/3/2020,Identidade Ignorada,M,NI,Salvador,Em frente ao bairro do Calabetão,BR-324
+4/3/2020,Adriano Santos da Silva,M,39,Salvador,Rua Nossa Senhora da Conceição,Tancredo Neves
+4/3/2020,M. E. S. de P.,F,15,Salvador,Estrada Velha do Aeroporto,Vila Verde
+4/3/2020,Alexandre Souza Rocha,M,33,Salvador,"Av. Reitor Miguel Calmon, via pública",Canela
+4/4/2020,Identidade Ignorada,M,NI,Salvador,"Rua José Pedreira, subindo a Ladeira da Cruz da Redenção",Brotas
+4/4/2020,Identidade Ignorada,M,NI,Salvador,Segunda Travessa do Alecrim,Águas Claras
+4/4/2020,Fernando Souza da Silva,M,32,Salvador,Avenida General San Martin,Retiro
+4/4/2020,S. S. C.,M,15,Camaçari,Rua da Rodagem,NI
+4/4/2020,Identidade Ignorada,M,NI,Salvador,"Rua Recanto Bela Vista, Mussurunga II",Mussurunga
+4/5/2020,Geanderson Nunes da Silva,M,28,Dias D'Ávila,NI,Bosque III
+4/5/2020,Identidade Ignorada,M,NI,Salvador,"Rua Direta Antônio Padre Vieira, ao lado do antigo Bompreço",Capelinha de São Caetano
+4/5/2020,Wesley dos Santos,M,25,Salvador,"Quadra 07, Caminho 04",Cajazeiras V
+4/5/2020,Identidade Ignorada,M,NI,Camaçari,Rua Direta do Sangradouro,Arembepe
+4/5/2020,Identidade Ignorada,M,NI,Salvador,"Rua ""Corre-Morre"", próximo ao posto de saúde e à linha férrea",Lobato
+4/5/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,"Povoado KM 02, próximo à ""Curva da Morte""",NI
+4/5/2020,Identidade Ignorada,M,NI,Salvador,Final de linha da Engomadeira,Engomadeira
+4/5/2020,Adriano Bonfim de Jesus,M,24,Dias D'Ávila,"1ª travessa da Rua Renato Lima Carvalho, Jardim Alvorada",Jardim Alvorada
+4/5/2020,Renata Verena de Azevedo Ribeiro,F,40,Salvador,"Rua do Horto, após o Gbarbosa",San Martin
+4/6/2020,Douglas Jesus Costa dos Santos,M,22,Salvador,Via pública,Jardim das Margaridas
+4/6/2020,Identidade Ignorada,M,NI,Salvador,Rua dos Aires,Granjas Rurais
+4/6/2020,Jefferson Yuri Sousa Santos Nunes,M,26,Camaçari,"Rua do Areal, via pública, Parque das Mangabas",Parque das Mangabas
+4/6/2020,Identidade Ignorada,M,NI,Salvador,Avenida Otávio Mangabeira,Corsário
+4/6/2020,Identidade Ignorada,M,NI,Candeias,Rua das Flores,Caroba
+4/6/2020,Identidade Ignorada,M,NI,Salvador,Rua Paulo Valverde,Tancredo Neves
+4/6/2020,Reinan Pinheiro da Silva,M,21,Salvador,Avenida Afrânio Peixoto,Coutos
+4/7/2020,Antônio Lopes da Silva,M,56,Camaçari,"Travessa Júlio Leitão, Lama Preta",Lama Preta
+4/7/2020,Edilson dos Santos Araújo,M,43,Salvador,Rua da Bolívia,Campinas de Pirajá
+4/7/2020,Alcemiro Duarte de Carvalho,M,42,Salvador,Rua da Revolução dos Alfaiates,Federação
+4/7/2020,Identidade Ignorada,F,NI,Salvador,"Rua Paulo Souto, Lagoa do Abaeté",Itapuã
+4/7/2020,Identidade Ignorada,M,NI,Salvador,Rua Baptista Machado,Plataforma
+4/7/2020,Identidade Ignorada,M,NI,Salvador,Avenida Margarida,Cosme de Farias
+4/7/2020,Cláudio Henrique Santos São Pedro,M,21,Salvador,Rua Desembargador Viana de Castro,Capelinha de São Caetano
+4/7/2020,Cristiane Karina Sousa Santos,F,26,Camaçari,"Condomínio Praia da Penha, Ponto Certo",Ponto Certo
+4/7/2020,Cristiano Silva Ferreira,M,20,Salvador,"Rua do Campo, próximo ao final de linha",Pau da Lima
+4/7/2020,Identidade Ignorada,M,NI,Salvador,"KM 09, próximo ao campo do Buracão",Pirajá
+4/8/2020,Identidade Ignorada,F,NI,Salvador,Ladeira São Francisco de Paula,Liberdade
+4/8/2020,Identidade Ignorada,M,NI,Salvador,"Atrás da Ladeira da Cruz da Redenção, em um campo de futebol",Brotas
+4/8/2020,Jackson Cruz do Nascimento da Silva,M,24,Salvador,Rua Direta da Engomadeira,Engomadeira
+4/8/2020,Identidade Ignorada,M,NI,Salvador,Rua Catanduvas,Santa Mônica
+4/8/2020,Ivã Porto da Conceição,M,23,Salvador,"Rua da Ressurreição, próximo ao antigo final de linha de ônibus",Alto de Coutos
+4/8/2020,Wilson Roque Conceição dos Santos Júnior,M,23,Salvador,"Settor C, depois da Igreja Universal",Fazenda Grande III
+4/8/2020,Cláudio Araújo Correia,M,50,Salvador,Rua dos Pirineus de baixo,Pau Miúdo
+4/8/2020,Thiago Eleutério de Andrade,M,18,Salvador,Rua José Lima,Pituaçu
+4/8/2020,Ronaldo Coutinho da Silva,M,22,Salvador,Rua José Lima,Pituaçu
+4/9/2020,Émerson Santos Silva,M,19,Dias D'Ávila,"Localidade do Pinho, atrás da ATT, Baixa da Urbis",Urbis
+4/9/2020,Eric Reis dos Santos,M,19,Candeias,"Rua Madeira, Caboto",Caboto
+4/9/2020,Identidade Ignorada,M,NI,Salvador,"Rua da Paz, esquina com a Rua Haroldo Caíno",Sussuarana
+4/9/2020,Identidade Ignorada,M,NI,Salvador,"Rua Dez, Conjunto Morada da Lagoa, Jardim Valéria, localidade conhecida como Lagoa da Paixão",Valéria
+4/9/2020,Anderson de Souza Menezes,M,38,Simões Filho,Palmares,Palmares
+4/9/2020,Clóvis Pimentel Simas,M,44,Salvador,"Estrada das Barreiras, 2ª Travessa Valter Dinis",Mata Escura
+4/9/2020,Identidade Ignorada,M,NI,Camaçari,"Rodovia Via Parafuso, BA 535, km 19, antes da ponte do Rio Joanes",Via Parafuso
+4/9/2020,Leandro Oliveira Pires,M,27,Salvador,"Rua Belamita, na entrada da localidade conhecida como Bate Estaca",Uruguai
+4/9/2020,Identidade Ignorada,M,NI,Salvador,Rua Mabaço de Cima,Itacaranha
+4/9/2020,Ederlan Santos Souza,M,24,Camaçari,Praça do Verde Horizonte,Verde Horizonte
+4/9/2020,Gabriel Silva de Oliveira,M,19,Camaçari,Rua do Pirui,Arembepe
+4/9/2020,Identidade Ignorada,M,NI,Salvador,"Rua do Forno, 1ª Travessa do Calafate",Fazenda Grande do Retiro
+4/10/2020,Emerson Silva dos Santos,M,23,Salvador,Travessa Augusta,Fazenda Grande do Retiro
+4/10/2020,Denisson dos Santos Silva,M,23,Salvador,Travessa Candeuba,Capelinha de São Caetano
+4/10/2020,Identidade Ignorada,M,NI,Salvador,Rua Iriguaçu,Paripe
+4/10/2020,G. S. S.,M,15,Salvador,Rua Itaquaraci,Boa Vista do Lobato
+4/10/2020,Identidade Ignorada,M,NI,Salvador,Travessa União,Lobato
+4/10/2020,Identidade Ignorada,M,NI,Salvador,"Rua Alto do Cajá, após a entrada de Vila Verde",Estrada Velha do Aeroporto
+4/10/2020,Jandeson Silva de Almeida,M,20,Salvador,Avenida Hilda,Pernambués
+4/10/2020,Identidade Ignorada,M,NI,Camaçari,"Rua do Gramado, Parque Satélite",Parque Satélite
+4/10/2020,José Nilton de Lima Rocha,M,19,Camaçari,"Rua Vila Nova, localidade conhecida como Rabo da Gata",NI
+4/10/2020,Remerson do Carmo Santos Espírito Santo,M,29,Salvador,"Rua Telma Cristina, Cocisa",Cocisa
+4/10/2020,T. A. dos S.,F,4,Camaçari,"Rua do Jacaré, Areias, póximo à Escola Thomas Camila",Areias
+4/10/2020,Identidade Ignorada,M,NI,Salvador,Rua Dr. Raimundo Mesquita,Liberdade
+4/11/2020,Identidade Ignorada,M,NI,Salvador,Rua da Matriz,Valéria
+4/11/2020,Renilda Santana Sampaio,F,62,Salvador,Ref. Entrada no HGE na data 06/04/2020 às 15h43 - procedente do bairro Pituaçu,Pituaçu
+4/11/2020,Gabriel Lucas dos Santos,M,25,Salvador,"Alto do Sossego, em frente ao Centro de Convenções",Boca do Rio
+4/11/2020,Pablo Henrique dos Santos Mendes,M,19,Salvador,"Alto do Sossego, em frente ao Centro de Convenções",Boca do Rio
+4/11/2020,Identidade Ignorada,M,NI,Simões Filho,"Localidade de Santo do Rio das Pedras, Rua da Barragem",Santo Antônio do Rio das Pedras
+4/11/2020,Identidade Ignorada,M,NI,Salvador,Avenida Nestor Duarte,São Caetano
+4/11/2020,Identidade Ignorada,M,NI,Salvador,Em frente à Brasilgás,BR-324
+4/11/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Afrânio Peixoto, próximo ao Cras",Lobato
+4/11/2020,Jonas Ferreira dos Santos,M,22,Simões Filho,"Fazenda Santa Rosa, BA-093",NI
+4/12/2020,Jones Silva da Conceição,M,19,Salvador,"Rua Praia de Ipanema, Sussuarana Velha",Sussuarana
+4/12/2020,Wilson Messias Souza,M,51,Camaçari,"Avenida Tiradentes, Vila de Abrantes",Vila de Abrantes
+4/12/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Boa Eesperança de dentro, via pública, Barra de Jacuípe",Barra de Jacuípe
+4/12/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Raquel de Queiroz, Parque Verde II",Parque Verde II
+4/12/2020,Fabrício Pereira dos Santos,M,19,Camaçari,"Rua Manancial, Caminho 5, bairro Santa Maria",Santa Maria
+4/12/2020,Identidade Ignorada,M,NI,Salvador,Av. 13 de Maio,IAPI
+4/12/2020,Murilo da Silva Aleluia Rosa,M,24,Salvador,Entrada da nova feira de Periperi,Periperi
+4/12/2020,Alaercio de Souza Medrado,M,30,Camaçari,"Rua Antônio Félix Martins, Prque Verde I",Parque Verde I
+4/12/2020,Edílson de Jesus dos Santos,M,35,Camaçari,"Rua Vila Nova, Lama Preta",Lama Preta
+4/12/2020,V. J. A.,M,13,Camaçari,"Rua Vila Nova, Lama Preta",Lama Preta
+4/12/2020,Jucival dos Santos,M,39,Camaçari,"Rua da Mangueira, localidade de Areias, Abrantes",Abrantes
+4/13/2020,Edicarlos Santos Venas,M,35,Simões Filho,"Estrada das Pedreiras, Coração de Maria",Coração de Maria
+4/13/2020,Lucas Roberto Miranda Ferreira,M,27,Lauro de Freitas,"Terceira Travessa Bandeirantes, próximo ao Campo de Futebol, Areia Branca",Areia Branca
+4/13/2020,João Carvalho da Silva,M,69,Simões Filho,"Rua Getúlio Varas, Jardim Renato (Renatão de Baixo)",Jardim Renatão
+4/13/2020,José Fernando de Tal,M,36,Camaçari,"Rua Marte II, Gravatá",Gravatá
+4/14/2020,Luan Reis dos Santos,M,19,Salvador,"Rua Canambi, em frente à Escola Irmã Sheila",Boca do Rio
+4/14/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Beira Mar, atrás do novo Atakarejo",Lobato
+4/14/2020,Identidade Ignorada,M,NI,Salvador,"Estrada do Cobre, após o posto médico",Rio Sena
+4/14/2020,Identidade Ignorada,M,NI,Camaçari,"Rua do Areal, Barra de Pojuca",Barra de Pojuca
+4/14/2020,V. B. S. P.,M,15,Dias D'Ávila,"Travessa Boa Esperança, Varginha",Varginha
+4/14/2020,Identidade Ignorada,M,NI,Simões Filho,"Via Periérica II, CIA",CIA
+4/14/2020,José Claudio de Jesus,M,39,Candeias,"Rua São Roque, Caboto",Caboto
+4/14/2020,Ualace Freitas Santos,M,30,Candeias,"Rua Almeida, Condomínio da Areia",NI
+4/14/2020,Identidade Ignorada,M,NI,Salvador,Rua Desembargador Alfredo Vieira,Escada
+4/14/2020,Identidade Ignorada,M,NI,Simões Filho,"Avenida Rocha, Palmares",Palmares
+4/15/2020,Jônathan John Soares Santana,M,20,Salvador,Entrada no Hospital Geral do Estado - procedente de local desconhecido,NI
+4/15/2020,Mateus Lima Gomes,M,25,Salvador,"Rua São Paulo, São João do Cabrito",Plataforma
+4/15/2020,W. S. N.,M,17,Lauro de Freitas,"Rua da Codorna, Jambeiro, Itinga",Itinga
+4/15/2020,Alisson Jorge Cardoso da Silva,M,26,Salvador,Localidade do Bate Estaca,Uruguai
+4/15/2020,Givanildo Conceição de Jesus,M,23,Mata de São João,"Rua Direta do Barro Branco, Mata de São João",Praia do Forte
+4/16/2020,Maurício Ferreira Lordelo,M,42,Salvador,"Rua J, Setor C, em frente ao Colégio Célia Nogueira",Mussurunga
+4/16/2020,Identidade Ignorada,F,NI,Salvador,"Ref. T.H. do dia 12/04/2020 às 19h49 - Procedente de Mata Escura, próximo ao ""Campinho de Futebol""",Mata Escura
+4/16/2020,Jorge Luís Pedreira de Araújo,M,38,Salvador,"Rua Nossa Senhora da Vitória, em frente ao Banco do Brasil",Itapuã
+4/16/2020,Identidade Ignorada,M,NI,Dias D'Ávila,Rua Baixa do Botafogo,NI
+4/17/2020,Identidade Ignorada,M,NI,Salvador,"Rua do Buracão, após o viaduto da Baixinha de Santo Antônio",São Gonçalo do Retiro
+4/17/2020,Valtemir da Cruz Silva,M,35,Salvador,Rua Flaviano Rodrigues,Valéria
+4/17/2020,Christian Souza de Oliveira,M,30,Salvador,Baixa Fria,Boca do Rio
+4/17/2020,Carlisson de Jesus Santana,M,30,Camaçari,"Rua Cambuí, Buri Satuba",Buri Satuba
+4/18/2020,João Victor Mendes Silva,M,20,Camaçari,"BA-531, rodovia Cascalheira, km 2",NI
+4/18/2020,Marcelo Cornélio Almeida Faria,M,28,Camaçari,"BA-531, rodovia Cascalheira, km 2",NI
+4/18/2020,Wallace Jesus Batista,M,26,Salvador,"Avenida Andaluzia, Rua 19 de Fevereiro / Rua do Centro Social, depois da Embasa",Alto do Peru
+4/18/2020,Identidade Ignorada,M,NI,Simões Filho,"BR-324, entrada de Cotegipe, após o Ferro Vermelho, Mapele",Mapele
+4/18/2020,Diogo Menezes Oliveira Pereira,M,21,Simões Filho,"BR-324, entrada de Cotegipe, após o Ferro Vermelho, Mapele",Mapele
+4/18/2020,Identidade Ignorada,M,NI,Candeias,"Rua Caracatinga, Menino Jesus (corpo encontrado em estdo de gigantismo)",Menino Jesus
+4/18/2020,Cláudio Ferreira Visita,M,45,Simões Filho,"Zona Rural, Bairro Alegre",Alegre
+4/18/2020,Luan Vinícius Reis dos Santos,M,27,Camaçari,"Rua Bela Vista, Bomba",Bomba
+4/18/2020,Valtemir Santos,M,51,Salvador,Via pública,Cosme de Farias
+4/18/2020,William de Oliveira,M,25,Salvador,Estrada das Barreiras,Cabula
+4/19/2020,Alan Cerqueira Oliveira,M,41,Salvador,Avenida Luís Viana Filho,Narandiba
+4/19/2020,Thomas de Oliveira Goularte,M,31,Simões Filho,"Avenida Washington Luís, Centro",Centro
+4/19/2020,Jacson Pereira Ramos,M,30,Salvador,"Rua 59, Quadra 58",Fazenda Coutos III
+4/19/2020,Ramon dos Santos Nascimento,M,32,Salvador,"Rua José Olímpio da Silva, em frente ao Mercado Menudo",IAPI
+4/19/2020,Identidade Ignorada,M,NI,Salvador,Atrás da Estação Bom Juá,Bom Juá
+4/19/2020,Diorgenes dos Santos Almeida,M,30,Salvador,"Entrada no HGE às 04h30 - Procedente da Travessia do Pará, atrás do Bradesco",Largo do Tanque
+4/19/2020,Admilson dos Santos Correia,M,23,Camaçari,"BA 535, km 36, Catu de Abrantes, Via Metropolitana, Abrantes",Abrantes
+4/19/2020,Domingos dos Sanntos Filho,M,39,Camaçari,NI,NI
+4/19/2020,Identidade Ignorada,M,NI,Candeias,"BA 522, Nova Brasília",Nova Brasília
+4/19/2020,Fernando Gomes França,M,39,Simões Filho,Rua São Pedro,NI
+4/19/2020,Gustavo Ferreira Cerqueira,M,22,São Francisco do Conde,Rua São Paulo,NI
+4/19/2020,Identidade Ignorada,M,NI,Salvador,Avenida Padre Domingos de Brito,Garcia
+4/20/2020,Luanderson Silva de Oliveira,M,29,Simões Filho,"Rua Maceió, Condomínio Bela Vista",Jardim Eldorado
+4/20/2020,Identidade Ignorada,M,NI,Salvador,"Rua Santa Rosa, Chapada do Rio Vermelho",Rio Vermelho
+4/21/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Sete de Setembro, em frente ao Walmart",Campo Grande
+4/21/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Gal Costa, localidade conhecida como Jamaica",Sussuarana
+4/21/2020,Fernando Nascimento Lemos,M,20,Salvador,"Avenida Gal Costa, localidade conhecida como Jamaica",Sussuarana
+4/21/2020,Davi Neves Portella,M,23,Salvador,"Avenida Gal Costa, localidade conhecida como Jamaica",Sussuarana
+4/21/2020,Anderson Limeira Santos,M,34,Salvador,"Rua da Coreia, próximo ao depósito da Brasilgás, Chapada do Rio Vermelho",Vale das Pedrinhas
+4/21/2020,Identidade Ignorada,M,NI,Salvador,"Rua Silveira Martins, ladeira que liga a Av. Paralela",Saboeiro
+4/21/2020,Rogério Santos Rumão,M,34,Camaçari,"Localidade conhecida como Alto da Bela Vista, distrito de Parafuso",Parafuso
+4/21/2020,Mateus Alessandro Gomes Sena,M,20,Salvador,"Via Local G-2, Núcleo C, Setor C",Cajazeiras VIII
+4/21/2020,Márcio Santos,M,19,Mata de São João,"BA-093, entroncamento de Mata de São João, próximo ao posto médico",Entroncamento
+4/22/2020,Luiz Antônio Barbosa Machado,M,20,Salvador,Rua Monsenhor Rubens Mesquita,Tororó
+4/22/2020,Identidade Ignorada,M,NI,Salvador,"Beco do Coruja, após o Colégio Otávio Mangabeira",Saboeiro
+4/22/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Maracajuba, Vila de Abrantes",Vila de Abrantes
+4/22/2020,Identidade Ignorada,M,NI,Simões Filho,"BA 526, após a fábrica de bicoto Águia, CIA",CIA
+4/22/2020,Gabriel Crispim Silva Melo da Cruz,M,19,Salvador,Rua Jaguarari,Cosme de Farias
+4/23/2020,Laércio da Conceição Galo,M,19,Salvador,1ª Travessa Rubens Zardival,Sussuarana
+4/23/2020,F. C. C.,M,17,Salvador,1ª Travessa Rubens Zardival,Sussuarana
+4/23/2020,Cirineu Santos Souza,M,34,Salvador,"Rua Bela Vista de Castelo Branco, 1ª Etapa, Loteamento Dom Lucas",Castelo Branco
+4/23/2020,José Carlos de Jesus Silva,M,23,Salvador,"Entrada no Hospital Municipal de Salvador em 1/04, procedente da Rua Direta da Sussuarana Velha",Sussuarana Vellha
+4/23/2020,Identidade Ignorada,M,NI,Salvador,Rua Fonte da Bica,Fazenda Grande do Retiro
+4/23/2020,Janailton dos Santos Amorim,M,25,Salvador,"Entrada no HGE dia 20/04, procedente da Rua Emílio Pio 51",Nordeste de Amaralina
+4/24/2020,Identidade Ignorada,M,NI,Salvador,Rua Elias Kalile,Uruguai
+4/24/2020,Identidade Ignorada,M,NI,Salvador,"Rua Travessa da Paz, Sussuarana",Sussuarana
+4/24/2020,Gerson Neves dos Santos Lima,M,23,Salvador,"Rua João Vintém, em frente à padaria de Giba",Cosme de Farias
+4/24/2020,Marcus Vinicius Cidreira Santos,M,21,Salvador,"Avenida Nova República, portão do fundo do Parque da Cidade",Santa Cruz
+4/24/2020,Daniel dos Anjos Pereira,M,20,Mata de São João,"Rua da Patiobba, Barro Branco, Imbassay",Imbassay
+4/26/2020,Douglas Lacerda Lisboa de Jesus,M,29,Salvador,"Em via pública, Rua ""E""",Alto do Cabrito
+4/26/2020,Leandro Silva Costa,M,30,Salvador,"Em via pública, Rua Dr. Jorge Costa Andrade",Águas Claras
+4/26/2020,Emanuel Sousa de Carvalho,M,21,Simões Filho,Ilha de São João,Ilha de São João
+4/27/2020,L. A. de L.,F,16,Salvador,Entrada na UPA de Pernambués - procedente de endereço ignorado,Pernambués
+4/27/2020,Marcos Ferreira dos Santos,M,23,Salvador,Rua Botafogo,Sussuarana Vellha
+4/27/2020,Patrício da Silva Luz Oliveira,M,26,Salvador,NI,Boca do Rio
+4/28/2020,Identidade Ignorada,M,NI,Salvador,Rua Albertino Guimarães,São Gonçalo do Retiro
+4/28/2020,Vitor Hugo,M,21,Salvador,"Rua 20 de Agosto, antes da Ladeira de Campinas, Travessa do Campo",Campinas de Pirajá
+4/28/2020,Everton Nei Leite de Sousa,M,32,Salvador,"Rua Santa Helena, em frente ao Mercado Real",Alto do Cabrito
+4/28/2020,Fábio Ferreira Molico,M,37,Dias D'Ávila,"1ª Travessa Portugal, bairro Urbis",Urbis
+4/28/2020,Edeilson da Conceição Prates,M,24,Candeias,Rua Primeira Travessa do Espírito Santo,NI
+4/29/2020,Paulo Augusto dos Santos Sampaio,M,23,Simões Filho,"Estrada Cova da Gia, Condomínio Residencial Cova da Gia, Pitanguinha",Pitanguinha
+4/29/2020,Mateus Palma Nunes,M,21,Simões Filho,"Via Ipitanga, CIA Sul",CIA Sul
+4/29/2020,Identidade Ignorada,M,NI,Camaçari,"Estrada vicinal, Via Atlântica",Via Atlântica
+4/29/2020,Luis Henrique Bastos Ima,M,21,Salvador,Praça da Revolução,Periperi
+4/29/2020,Joalison Santos Silva,M,21,Salvador,"Rua Direta da Lagoa, localidade conhecida como Timbalada",Cabula
+4/30/2020,Gabriel dos Santos,M,30,Lauro de Freitas,"Avenida Celso Alves Pinheiro da Silva, Centro",Centro
+4/30/2020,Identidade Ignorada,M,NI,Salvador,"Rua do ulião, atrás da Praça da Mãozinha",Comércio
+4/30/2020,Identidade Ignorada,M,NI,Salvador,"Rua Manoel Rufino, em um matagal - corpo encontrado em estado de gigantismo",Narandiba
+5/1/2020,Identidade Ignorada,F,NI,Salvador,Rotatória do Hospital do Subúrbio,Valéria
+5/1/2020,Identidade Ignorada,M,NI,Salvador,"Próximo à Avenida Assis Valente, em frente à área da Embasa",Cajazeiras X
+5/1/2020,Luis Ricardo Costa dos Santos,M,26,Salvador,Rua do Céu,Pero Vaz
+5/1/2020,Identidade Ignorada,M,NI,Salvador,"Travessa Maria Eugênia, antes da Embasa",Federação
+5/1/2020,Gilmar dos Santos Gomes,M,25,Dias D'Ávila,"Centro, Praça da Telebahia",Centro
+5/1/2020,Odilane Almeida dos Santos,F,26,Itaparica,"Rua da Água Fria, localidade Fonte do Marcelino",NI
+5/2/2020,Identidade Ignorada,M,NI,Simões Filho,"Via Periférica I, em frente à fábrica da Ipê, CIA",CIA
+5/2/2020,Identidade Ignorada,M,NI,Simões Filho,"Via Periférica I, em frente à fábrica da Ipê, CIA",CIA
+5/2/2020,Adejailton dos Santos Macedo,M,32,Dias D'Ávila,NI,Jardim Futurama
+5/2/2020,Identidade Ignorada,M,NI,Candeias,"Rua da Colônia, atrás da subestação da Petrobras",NI
+5/2/2020,Identidade Ignorada,M,NI,Salvador,Rua 10 de Dezembrom ao lado do Colégio 3º Milênio,Mata Escura
+5/2/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Rua da Assembleia de Deus, bairro Concórdia",Concórdia
+5/2/2020,Identidade Ignorada,M,NI,Dias D'Ávila,"Rua do Sossego, bairro Leandrinho",Leandrinho
+5/2/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Antônio Carlos Magalhães, em frente à antiga Comercial Ramos",Pituba
+5/2/2020,José Carlos Santana Alves,M,35,Camaçari,"Rua Amelia Montenegro, Via Parafuso",Parafuso
+5/2/2020,Reinaldo de Jesus Santos,M,35,Camaçari,"Avenida Radial B, após a Caixa Econômica, Centro",Centro
+5/3/2020,Dêivisson da Cruz Bonfim,M,24,Salvador,Rua Juscelino Kubitschek,Cajazeiras XI
+5/3/2020,Cleidson da Silva dos Santos,M,18,Salvador,"Rua 24 de Agosto, ao lado da Caixa d'Água",Rio Sena
+5/3/2020,Identidade Ignorada,M,NI,Simões Filho,"Rua Santo Antônio do Rio das Pedras, atrás da Frimaza",Santo Antônio do Rio das Pedras
+5/4/2020,Anderson de Jesus dos Santos,M,21,Camaçari,"Rua do Areal, distrito de Machadinho",Machadinho
+5/4/2020,Claudinei Ribeiro de Lima,M,71,Salvador,Rua Padre Domingos de Brito,Garcia
+5/4/2020,Ricardo Almeida da Silva,M,40,Salvador,"Estrada de Campinas, em frente ao CAPS",Campinas de Pirajá
+5/4/2020,Identidade Ignorada,M,NI,Salvador,"Rua Nova Divinéia, referência Igreja Rei Jesus",Periperi
+5/4/2020,Identidade Ignorada,M,NI,Salvador,"Rua da Adutora, Yolanda Pires",São Cristóvão
+5/4/2020,Identidade Ignorada,M,NI,Salvador,Estação da Lapa,Centro
+5/5/2020,Ualesson Buri dos Santos,M,23,Salvador,Rua Direta do Santo Inácio,Santo Inácio
+5/5/2020,Alan Devid da Silva Santos,M,28,Salvador,Terceira Etapa de Castelo Branco,Castelo Branco
+5/5/2020,Edson Correia dos Santos,M,31,Salvador,Rua Nova do Bariri,Engenho Velho de Brotas
+5/5/2020,Luis Henrique de Jesus dos Santos,M,19,Salvador,Rua Nova do Bariri,Engenho Velho de Brotas
+5/5/2020,Identidade Ignorada,M,NI,Simões Filho,Santo Antônio do Rio das Pedras,Santo Antônio do Rio das Pedras
+5/5/2020,Identidade Ignorada,M,NI,Salvador,Em frente à Feira de São Joaquim,Calçada
+5/6/2020,Identidade Ignorada,M,NI,Camaçari,Rua principal - Bairro Novo,Bairro Novo
+5/6/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Rua São José, Vila Praiana",Vila Praiana
+5/7/2020,Gilmar Luiz da Silva,M,53,Mata de São João,"Povoado de Mata Burros, Fazenda Brejão",Mata Burros
+5/7/2020,Identidade Ignorada,M,NI,Salvador,Segunda Travessa Bela Vista,Paripe
+5/7/2020,Identidade Ignorada,M,NI,Salvador,Rua da Indonésia,Granjas Rurais
+5/8/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Paragominas, Barra de Jacuípe",Barra de Jacuípe
+5/8/2020,Identidade Ignorada,M,NI,Salvador,Rua da Cachoeira,Itacaranha
+5/8/2020,Identidade Ignorada,M,NI,Salvador,"Vista Alegre, região da Bica",Vista Alegre
+5/8/2020,Emanuele Natalícia Santos do Rosário,F,21,Salvador,Rua Direta da Engomadeira,Engomadeira
+5/8/2020,Mateus da Cruz Rosa Junior,M,24,Salvador,Rua São Roque,São Cristóvão
+5/8/2020,Identidade Ignorada,M,NI,Candeias,Praça Maria Quitéria,NI
+5/8/2020,Laís Factum do Amparo,F,27,Salvador,Rua Jaci Grego,Tancredo Neves
+5/9/2020,Identidade Ignorada,M,NI,Salvador,"Rua das Vassouras, em frente à Pousada Tropical",Cassange
+5/9/2020,Valtenei Bulcão Costa,M,35,São Francisco do Conde,"Rua Antônio Santana Portugal, Nova São Francisco",Nova São Francisco
+5/9/2020,Jamilson da Silva Andrade,M,32,Salvador,Rua Rio Amazonas,Vila Laura
+5/9/2020,W. G. L.,M,16,São Francisco do Conde,"Estrada de Campinas, Condomínio Residencial São Francisco, Gurugé",Gurugé
+5/10/2020,Douglas Henrique da Silva Borges,M,26,Salvador,Rua Santa Helena,Valéria
+5/10/2020,Carlos Ângelo Souza Santos,M,26,Salvador,Rua Santa Helena,Valéria
+5/10/2020,Cícero das Virgens Conceição Filho,M,54,Camaçari,"Rua Capivoi, bairro Buri Satuba",Buri Satuba
+5/10/2020,Identidade Ignorada,M,NI,Salvador,"Av. Afrânio Peixoto, próximo à Brasilgás",Santa Luzia do Lobato
+5/11/2020,Luan de Jesus Ribeiro,M,19,Salvador,3ª Travessa Novo Paraíso,Boca do Rio
+5/11/2020,Identidade Ignorada,M,NI,Salvador,"Rua Cap. Aloísio Silva, Estrada das Barreiras",Cabula VI
+5/11/2020,Aldivan Santos de Jesus,M,32,São Sebastião do Passé,"Localidade de Santo André, Nazaré de Jacuípe, zona rural",Nazaré de Jacuípe
+5/12/2020,Identidade Ignorada,M,NI,Salvador,Rua Eugenia Anna dos Santos,Engomadeira
+5/12/2020,Givânia da Silva Alves,F,24,Salvador,"Rodovia CIA Aeroporto, em frente à passarela da Quinta Portuguesa",CIA Aeroporto
+5/12/2020,Estevão Luis Souza Santos,M,21,Salvador,"Rua Sol Nascente, Av. Edgar Santos",Narandiba
+5/12/2020,Identidade Ignorada,M,NI,Salvador,"Av. Afrânio Peixoto, sentido Paripe",Santa Luzia do Lobato
+5/13/2020,Heliandre Pereira de Lima,F,20,Pojuca,"Avenida Antonio Batista, bairro Nova Pojuca",Nova Pojuca
+5/13/2020,Cledenilson Weslei Santos,M,37,Salvador,Próximo à Azevedo Madeireira,Jardim Lobato
+5/13/2020,Agson Davi Silva de Jesus,M,51,Dias D'Ávila,"Localidade de Imbassahi, atras da Embasa",Imbassahi
+5/13/2020,Arimar Moura dos Santos,M,33,Salvador,"Rua das Caçambas, Baixinha do Calabetão",Calabetão
+5/13/2020,J. de J. S.,M,16,Salvador,"Rua Alto do Sapucaia, localidade da Fonte do Capim",Fazenda Grande do Retiro
+5/14/2020,Identidade Ignorada,M,NI,Salvador,"Rua Adelino Santos, local conhecido como Campinho",Curuzu
+5/14/2020,Identidade Ignorada,M,NI,Salvador,"Avenida Dois de Julho, atrás do Hospital Cout Maia",Águas Claras
+5/14/2020,Felipe Soares de Sousa,M,19,Salvador,"Rua Lomanto Junior, em frente ao Colégio Atual",Praia Grande
+5/14/2020,Cláudio Bispo dos Santos,M,31,Salvador,São Cristóvão do Aeroporto,São Cristóvão
+5/16/2020,Jennifer Ferreira Nascimento,F,20,Salvador,Rua 01 de Janeiro,Pau Miúdo
+5/16/2020,Identidade Ignorada,M,NI,Salvador,"2ª Travessa da Independência, Parque Jocélia",Sussuarana
+5/16/2020,Tailson Reis Menezes,M,30,Salvador,"Rrua São Francisco, (na entrada da localidade conhecida como Planeta dos Macacos)",São Cristóvão
+5/16/2020,Identidade Ignorada,M,NI,Salvador,"Rua Albertino Guimarães, (localidade conhecida como Morro do Águia)",São Gonçalo do Retiro
+5/16/2020,Ualisson Santana de Oliveira,M,32,Salvador,Avenida Afrânio Peixoto,Lobato
+5/16/2020,Identidade Ignorada,M,NI,Salvador,Conjunto Saboeiro,Saboeiro
+5/16/2020,Vitor de Santana Andrade,M,20,Camaçari,Parque Verde I,Parque Verde I
+5/16/2020,F. dos S. A.,M,14,Camaçari,Parque Verde I,Parque Verde I
+5/17/2020,Carine Matos Santana,F,23,Salvador,Rua Pajussara,Ilha Amarela
+5/17/2020,Identidade Ignorada,M,NI,Simões Filho,"Via periférica I, CIA",CIA
+5/17/2020,Identidade Ignorada,M,NI,Mata de São João,"Povoado de Água Fria, em via pública",Água Fria
+5/17/2020,Anderson Martins Santos,M,28,Camaçari,"Em via pública, 2ª Travessa do Areal, Parque Verde II",Parque Verde II
+5/17/2020,Marcos Antônio Silva Brás,M,26,Salvador,Em via pública no Largo do Aquidabã,Aquidabã
+5/17/2020,K. A.,M,16,Camaçari,"Rua das Angélicas, PHOC I",PHOC I
+5/17/2020,Carlos Augusto de Carvalho,M,46,Dias D'Ávila,Loteamento Jardim do Leite,NI
+5/19/2020,Denielson Nascimento da Silva do Espírito Santo,M,23,Lauro de Freitas,"Via pública, próximo ao Correio e posto de saúde",Itinga
+5/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua Dr. Alfredo Ramalho, Setor II, em frente à quadra de esportes",Fazenda Grande IV
+5/20/2020,Maria José Sueli Orrico Gomes,F,47,Salvador,"Avenida São Paulo, final da rua",Pernambués
+5/20/2020,Identidade Ignorada,M,NI,Salvador,"Avenida São Rafael, próximo à Escola Imbassay",São Marcos
+5/21/2020,Identidade Ignorada,M,NI,Salvador,"Rua Botafogo, próximo do Parque Jocélia II",Sussuarana
+5/21/2020,Bruno Trabuco de Jesus,M,25,Camaçari,"Rua Quatro do Canal, Gleba A",Gleba A
+5/21/2020,Paulo Santos Silva,M,61,Salvador,"Ponto de táxi, em frente ao Mercado Redemix",Sete Portas
+5/22/2020,Identidade Ignorada,M,NI,Salvador,Rua das Palmeiras,Cajazeiras XI
+5/22/2020,Identidade Ignorada,M,NI,Salvador,Avenida Octávio Mangabeira,Piatã
+5/22/2020,Identidade Ignorada,M,NI,Salvador,Na rua do Sindcap,Tororó
+5/22/2020,Samuel Sousa Mendes,M,28,Salvador,"Rua Mandacaru, Nova Brasília de Itapuã",Itapuã
+5/23/2020,Valdir Pereira dos Santos,M,26,Camaçari,Estrada das Cascalheiras,Vila de Abrantes
+5/23/2020,Valnei Barbosa Junqueira,M,26,Simões Filho,"Via Parafuso,km da rodovia BA 535, Fazenda Telha",NI
+5/23/2020,José Luis Santos,M,36,Salvador,"Caminho 48, Setor VII",Boca da Mata
+5/24/2020,Identidade Ignorada,M,NI,Salvador,"Entrada no Hospital Carvaho Luz Nazaré no dia 18.05.2020, procedente de endereço ignorado",NI
+5/24/2020,Leonardo Santos da França,M,22,Simões Filho,Local não informado,NI
+5/24/2020,Cleiton de Jesus dos Santos,M,31,Camaçari,"1ª Travessa das Laranjeiras (linha do trem), Parque Verde I",Parque Verde I
+5/24/2020,Igor Silva Santos,M,22,Simões Filho,"Estrada das Pedreiras, condomínio Coração de Maria",Ceasa
+5/24/2020,Carlos de Jesus Santos,M,39,Salvador,"Rua Peri Ribeiro, final de linha",Vila Canária
+5/24/2020,Erick Santos de Jesus,M,25,Salvador,"Rua Peri Ribeiro, final de linha",Vila Canária
+5/24/2020,Érico Santos de Jesus,M,27,Salvador,"Rua Peri Ribeiro, final de linha",Vila Canária
+5/24/2020,Valfredo Anunciação de Oliveira,M,39,Salvador,"Rua Peri Ribeiro, final de linha",Vila Canária
+5/24/2020,Identidade Ignorada,M,NI,Salvador,"Escadaria da Barroquinha, final de linha",Barroquinha
+5/24/2020,Lysandro Rosa Santos,M,24,Camaçari,"Rua Gonçalves Dias, Alto da Cruz",Alto da Cruz
+5/24/2020,Adler Mariano da Silva Santos,M,22,Vera Cruz,"Estrada do Baiacu, Lagoa Curva Principal",NI
+5/24/2020,João Pedro Gonçalves dos Santos,M,18,Salvador,"Rua principal de São Cristóvão, próximo à garagem da Integra",São Cristóvão
+5/25/2020,Identidade Ignorada,M,NI,Salvador,Rua José Muniz,Jardim Santo Inácio
+5/25/2020,Fidélio Silva Cruz,M,41,Camaçari,"Rua Angelim, Canto dos Pássaros, Monte Gordo",Monte Gordo
+5/25/2020,Identidade Ignorada,M,NI,Simões Filho,"BA 528, Via Periférica II",NI
+5/25/2020,T. V. dos S. S.,M,14,Salvador,Rua Jornalista Nilton França,Uruguai
+5/26/2020,W. F. A.,M,17,Camaçari,"Avenida Eixo Urbano, Centro",Centro
+5/27/2020,Evandra da Silva Cassiano,F,50,Salvador,"Ceasa, BA 526",CIA Aeroporto
+5/27/2020,Josué Souza dos Santos,M,26,Salvador,Segunda Travessa Antônio Teixeira,Mirantes de Periperi
+5/27/2020,Jéferson de Oliveira Santos,M,20,Camaçari,"Rua Tomé de Souza, Estiva de Buris, Vila de Abrantes",Vila de Abrantes
+5/28/2020,Antonio Simões dos Santos,M,42,Pojuca,"Rua Paulo Moreira, Jenipapo",Jenipapo
+5/28/2020,Gilvan Nascimento de Jesus,M,30,Pojuca,"Rua Alto da Bela Vista, localidade conhecida como Sobe e Desce",NI
+5/28/2020,Rodrigo Freitas de Jesus,M,25,Camaçari,"BA 099, Estrada do Côco, sentido sul, Barrra de Jacuípe, próximo ao Empório Km 32",Barra de Jacuípe
+5/28/2020,Jean Gomes dos Santos,M,21,Lauro de Freitas,"Região do Pé Preto, próximo à Embasa, Portão",Portão
+5/28/2020,Identidade Ignorada,M,NI,Dias D'Ávila,Rua Nossa Senhora das Candeias,NI
+5/28/2020,Identidade Ignorada,F,NI,Salvador,"Avenida São Rafael, após Hospital São Rafael",São Marcos
+5/29/2020,Matheus Cruz de Freitas,M,20,Salvador,Rua Silveira Martins,Cabula
+5/29/2020,Jander Jorge Santos Oliveira,M,21,Salvador,"Avenida San Martin, Barro Branco",San Martin
+5/29/2020,Hebert Paulo Ataíde,M,20,Salvador,"Rua Rio Catu, localidade denominada Fonte do Capim",Fazenda Grande do Retiro
+5/29/2020,Ruan de Jesus Dace,M,26,Salvador,"Setor G, Caminho 7, Rua da Escola Ana Maria Poppovic",Mussurunga I
+5/30/2020,Identidade Ignorada,M,NI,Vera Cruz,Praia de Ilhota,NI
+5/30/2020,Identidade Ignorada,M,NI,São Francisco do Conde,"Baixa Fria, estrada vicinal",Baixa Fria
+5/30/2020,Identidade Ignorada,M,NI,Salvador,Rua Rosalvo Barbosa Romeu,Vila Rui Barbosa
+5/31/2020,Fernando Santos Almeida,M,32,Salvador,"Avenida Gal Costa, ladeira ao lado do Centro Espírita 'Casa do Caminho', Sussuarana Velha",Sussuarana
+5/31/2020,Identidade Ignorada,M,NI,Simões Filho,Rua Topázio,NI
+5/31/2020,Nilson Marqus dos Santos,M,56,Salvador,"Rua Alto do Formoso, Prainha",Lobato
+6/1/2020,Identidade Ignorada,M,NI,Salvador,"BR-324, próximo ao viaduto sentido Salvador",Brasilgás
+6/1/2020,Luis Gabriel de Sousa,M,NI,Salvador,Rua Direta Novo Horizonte,Cajazeiras IX
+6/2/2020,D. K. S. dos S.,M,17,Camaçari,"Atrás do Condomínio Algarobas III, Gleba H",Gleba H
+6/2/2020,Maurício Conceição de Souza,M,27,Salvador,Rua Yolanda,São Caetano
+6/2/2020,Caio Felipe Portela Silva,M,26,Salvador,Rua Professor Plínio Garcez de Sena,Mussurunga
+6/3/2020,T. C. das N.,M,17,Camaçari,"Radial B, Alto da Cruz",Alto da Cruz
+6/3/2020,Alexandre Rocha das Neves,M,22,Salvador,Rua Direta do São Gonçalo,São Gonçalo do Retiro
+6/3/2020,Identidade Ignorada,M,NI,Salvador,Rua da Alegria,Fazenda Coutos
+6/3/2020,Identidade Ignorada,M,NI,Salvador,Rua Boa Vista da Ceasa,Ceasa
+6/4/2020,Identidade Ignorada,M,NI,Candeias,"Ref. Entrada no Hospital do Subúrbio às 20h34 do dia 03/06/2020 - Proc. Do bairro Triângulo, Candeias",Triângulo
+6/4/2020,Francivaldo Santos Louvores,M,35,Candeias,Rua Santos Dumont,Sarandi
+6/5/2020,Identidade Ignorada,M,NI,Lauro de Freitas,"Avenida Progresso, Areia Branca",Areia Branca
+6/6/2020,Iago Damasceno de Jesus,M,20,Salvador,Rua Voluntários da Pátria,Lobato
+6/6/2020,Roberto Carlos Silva de Santana,M,50,Salvador,Avenida Cardeal da Silva,Rio Vermelho
+6/6/2020,Identidade Ignorada,M,NI,Salvador,1ª Travessa do Fidalgo,Cassange
+6/6/2020,Gabriel Silva Cardoso,M,21,Salvador,"Rua da Caixa d'Água, atrás da Igreja São Francisco de Assis",Alto de Coutos
+6/7/2020,Identidade Ignorada,M,NI,Salvador,"Escada de acesso à localidade Nova Constituinte, Estrada Velha de Periperi",Periperi
+6/7/2020,Lucidalva Maria Barbosa,F,42,Salvador,"Ladeira da Mangueira, após o depósito de gás",Boa Vista de São Caetano
+6/8/2020,Raphael Vinicius Conceição Rebouças,M,27,Salvador,Rua Colina Azul,Pau da Lima
+6/8/2020,Manoel Vicente de Lemos Filho,M,51,Simões Filho,"Cova da Gia, atrás do campo de futebol",NI
+6/8/2020,Adolfo Silva Caldas,M,31,Salvador,Em frente ao Mercado do Peixe,Ladeira da Água Brusca
+6/8/2020,Identidade Ignorada,M,NI,Salvador,"Avenida 29 de Março, atrás do Condomínio Alphaville II",Cajazeiras
+6/8/2020,Fernando Olivera dos Santos,M,40,Dias D'Ávila,Rua da Concórdia,NI
+6/9/2020,Isaías Barbosa Silva,M,21,Camaçari,"Rua Cecilia Meireles, Parque Verde",Parque Verde
+6/9/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Ana Galvão, Camaçari de Dentro",Camaçari de Dentro
+6/10/2020,Identidade Ignorada,M,NI,Itaparica,"Loteamento Parque das Fontes, próximo ao Colégio Municipal",NI
+6/10/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,"Estrada vicinal, BA-512, distrito de Lamarão do Passé",Lamarão do Passé
+6/10/2020,Vagner da Silva Cruz,M,41,Salvador,Rua Venezuela,Paripe
+6/11/2020,Identidade Ignorada,M,NI,Salvador,Avenida Otávio Mangabeira,Piatã
+6/11/2020,Identidade Ignorada,M,NI,Salvador,"Embaixo do viaduto, sentido Feira de Santana",Arraial do Retiro
+6/11/2020,Anderson Santos de Jesus,M,32,Dias D'Ávila,"Rua Farias de Brito, bairro Concórdia",Concórdia
+6/11/2020,Jose Bastos Lima,M,35,Salvador,Localidade conhecida como Chesf,Vale dos Lagos
+6/11/2020,Jivaldo Hora do Nascimento,M,33,Salvador,Próximo ao Mercado do Peixe,Água de Meninos
+6/12/2020,Identidade Ignorada,M,NI,Salvador,Rua José Gonçalves,Cabula VI
+6/12/2020,D. V. S. dos S.,M,16,Salvador,"Terceira Travessa Heide Carneiro, Vila Dois de Julho",Trobogy
+6/12/2020,Carlos Antonio Mendes dos Santos,M,56,Salvador,Rua Dois de Julho,Alto de Coutos
+6/12/2020,Gilmar Carmo dos Santos,M,36,Salvador,"Rua Pernambuco, em frente à ladeira da Igreja Universal",Tancredo Neves
+6/13/2020,Identidade Ignorada,M,NI,Camaçari,"Rua Machado de Assis, Lama Preta",Lama Preta
+6/13/2020,Identidade Ignorada,M,NI,Salvador,Rua 03 de Maio,São Cristóvão
+6/13/2020,Eliecir Conceição dos Santos,F,51,Salvador,Rua Direta do Rio Sena,Rio Sena
+6/13/2020,Identidade Ignorada,M,NI,Salvador,Travessa Simone Barradas,Jardim Nova Esperança
+6/13/2020,Identidade Ignorada,M,NI,Salvador,Rua João Alberto,Jardim Nova Esperança
+6/14/2020,Edvan dos Santos Ribeiro,M,37,Mata de São João,"Localidade de Retiro Açu da Torre, via pública",Açu da Torre
+6/14/2020,Renilson Silva Cardoso,M,35,Salvador,"Lagoa da Paixão, Setor 4,Morada Nova Valéria",Valéria
+6/14/2020,Identidade Ignorada,M,NI,Simões Filho,"Vivendas dos Pássaros, Tanque do Coronel, Cia 2, Quadra 7",NI
+6/14/2020,Manoel Alves de Santana,M,38,Camaçari,Distrito de Parafuso,Parafuso
+6/14/2020,Identidade Ignorada,M,NI,Simões Filho,"Rua Boa Esperança da Ceasa, Estrada das Pedreiras",NI
+6/15/2020,Felipe Dias dos Santos,M,21,Mata de São João,Ref. Entrada no HGE no dia 09.06.2020 - procedente de local ignorado,NI
+6/16/2020,Identidade Ignorada,M,NI,Simões Filho,"Rua da Linha, Aratu",Aratu
+6/16/2020,Daniel Antonio dos Santos,M,50,Simões Filho,"Rua N, Conjunto Alvorada",NI
+6/16/2020,Identidade Ignorada,F,NI,Salvador,"Rua Diireta do Cabula, após o Condomínio Vivace",Cabula
+6/16/2020,Ceilton Roque Lisboa Filho,M,22,Salvador,Rua do Curuzu,Liberdade
+6/16/2020,Identidade Ignorada,M,NI,Candeias,Rua Santos Dumont,NI
+6/17/2020,Identidade Ignorada,M,NI,São Sebastião do Passé,"BR-116, localidade de Palmeira",NI
+6/17/2020,Leandro Santos da Silva,M,30,Simões Filho,"BA 093, imediações do Quilombo Dandar",NI
+6/18/2020,Josué Marques Barrreto,M,32,Salvador,"Rua da Alegria, parte de cima do viaduto antes do Porto Seco",Campinas de Pirajá
+6/18/2020,Mateus Gomes Santos,M,25,Salvador,"Rua 17 de Maio, localidade conhecida como Rua da Horta",Saramandaia
+6/18/2020,Danilo Macedo de Oliveira,M,NI,Salvador,Ref. Entrada no Hospital São Rafael no dia 11/06/2020 - procedente da Rua Daniel Gomes,Jardim Nova Esperança
+6/18/2020,Jundarai Silva dos Santos,M,37,Salvador,"Avenida Meireles, próximo ao Centro Educacional Carneiro Ribeiro",Pero Vaz
+6/18/2020,Identidade Ignorada,M,NI,Salvador,"Rua Amazonas, esquina com a Rua Maranhão",Pituba
+6/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua J, Quadra 16, Terceira Etapa de Castelo Branco",Castelo Branco
+6/19/2020,Identidade Ignorada,M,NI,Salvador,"Rua J, Quadra 16, Terceira Etapa de Castelo Branco",Castelo Branco
+6/19/2020,Uelber de oliveira Conceição,M,37,Candeias,"Condomínio Areias, bairro Areias",Areias
+6/19/2020,Uivonei Santos Barreito,M,32,Salvador,"Rua 18 de Março, fim de linha",Jardim Nova Esperança
+6/19/2020,Jonatã de Souza Santos,M,19,Salvador,"Rua Irmã Dulce, próximo ao Rivera Móveis",Cajazeiras VI
+6/19/2020,Identidade Ignorada,M,NI,Salvador,"Estrada do Coqueiro Grande, nas imediações da loja Atacadão dos Pisos",Fazenda Grande II
+6/19/2020,Identidade Ignorada,M,NI,Salvador,Rua Vila Santa Catarina,Campinas de Pirajá
+6/21/2020,Lucas da Costa Ramos,M,22,Salvador,Largo do Tamarineiro,Pau Miúdo
+6/21/2020,Identidade Ignorada,M,NI,Salvador,"Ladeira dos Fiais, Santa Luzia do Lobato",Lobato
+6/21/2020,Cleber Silva Santos,M,27,Salvador,"Rua São José, localidade conhecida como Vale da Muriçoca",Engenho Velho da Federação
+6/21/2020,Marcelo Isaac Matos dos Santos,M,20,Salvador,"Rua Rod. Sombra, próximo à linha do trem",Lobato
+6/22/2020,Adriano Alves Elias da Silva,M,32,Salvador,Ref. Entrada no HGE no dia 20/06/2020 - procedente de local ignorado,Imbuí
+6/22/2020,Identidade Ignorada,M,NI,Salvador,"Quintas dos Lázaros, próximo ao posto São Judas Tadeu",Baixa de Quintas
+6/22/2020,Identidade Ignorada,M,NI,Salvador,Avenida Dorival Caymmi,Itapuã
+6/22/2020,Jonatas de Jesus Oliveira,M,24,Mata de São João,"Mata de São João, Rua Direta de Malhadas",Praia do Forte
+6/23/2020,Danilo Vieira da Silva,M,25,Salvador,Central Supermercado,Cajazeiras X
+6/23/2020,Henrique Roberto Alencar Santos,M,28,Salvador,"Rua da Adutora, próximo ao Supermercado Pouco Real",São Cristóvão
+6/23/2020,Gabriel Araújo Gomes,M,24,Salvador,"Rua 5, em frente à Associação de Moradores",Mirantes de Periperi
+6/24/2020,Daniel Ribeiro Santos,M,26,Salvador,Próximo à Estrada das Pedreiras,Ceasa
+6/25/2020,Identidade Ignorada,M,NI,Salvador,Rua Pomba da Paz,Cajazeiras VI
+6/25/2020,Identidade Ignorada,M,NI,Salvador,Rua José Falcão,Fazenda Grande do Retiro
+6/25/2020,Márcio do Rosário de Jesus,M,35,Camaçari,"2ª Travessa São Francisco de Assis, bairro Lama Preta",Lama Preta
+6/26/2020,Identidade Ignorada,M,NI,Simões Filho,"BA 535, primeira rotatória depois da pedreira",NI
+6/26/2020,Identidade Ignorada,M,NI,Salvador,"Rua Comodoro, Baixa de Santa Rita",Pau da Lima
+6/26/2020,Israel Santos Bezerra,M,24,Lauro de Freitas,"Rua João Bispo, próximo à Escola Gregório de Matos",NI
+6/26/2020,Fabrício Bispo de Jesus,M,25,Lauro de Freitas,"Rua Adustina, loteamento do Horto Florestal, atrás do Mercado Economia",Itinga
+6/27/2020,Identidade Ignorada,M,NI,Salvador,"Rua da Independência, Parque Jocélia II",Sussuarana Velha
+6/27/2020,M. C. de O. P.,M,15,Camaçari,"Avenida Radial C, Parque Satélite (referente a entrada no Hospital Geral de Camaçari em 23/06)",Parque Satélite
+6/27/2020,Identidade Ignorada,M,NI,Salvador,"Rua Direta da Mata Escura, localidade conhecida como Bate Folha",Mata Escura
+6/27/2020,Jose Ailton Santos Junior,M,34,Simões Filho,"BR-324, via secundária, próximo à empresa Vale do Rio Doce ou Manganês",NI
+6/27/2020,Adriano Jorge da Silva,M,40,Lauro de Freitas,Jardim Tropical - Itinga,Itinga
+6/27/2020,Identidade Ignorada,M,NI,Salvador,"Rua 25 de Dezembro, próximo à rua do Menor Preço",Uruguai
+6/28/2020,Identidade Ignorada,M,NI,Salvador,Rua Manoel Cabaceira,Pernambués
+6/28/2020,Emanuel Santos Nascimento,M,35,Salvador,Rua Manoel Cabaceira,Pernambués
+6/28/2020,Luan da Silva dos Santos,M,23,Salvador,Rua do Areal,Mata Escura
+6/28/2020,Edivaldo Ribeiro dos Anjos,M,38,Camaçari,"BA 099, Barra do Pojuca, no ponto de ônibus da passarela, sentido Praia do Forte",Barra do Pojuca
+6/28/2020,Alex Paulo Goes de Souza,M,48,Salvador,"Avenida São Paulo, 'Baixa do Manu'",Pernambués
+6/28/2020,José Antônio Sales dos Santos,M,24,Camaçari,"Rua da Boa Sorte, Phoc I",PHOC I
+6/28/2020,Luiz Fernando da Silva Junior,M,24,Salvador,Rua Rio Joanes,Jardim Santo Inácio
+6/28/2020,Identidade Ignorada,M,NI,Salvador,"Rua Alameda Ogunjá, Condomínio Viver Melhor, Caminho 12",Engenho Velho de Brotas
+6/28/2020,Identidade Ignorada,M,NI,Salvador,Rua Leste,São Marcos
+6/29/2020,Jefferson Pereira Dias,M,25,Salvador,"Rua do ""Z"", Km 17",Itapuã
+6/29/2020,Waldeck Clementino dos Santos,M,38,Salvador,"Margens da BBR 324, km 625, sentido Feira de Santana",São Gonçalo do Retiro
+6/29/2020,Everton Oliveira Freitas,M,18,Dias D'Ávila,Rua Direta do Rio Jacumirim,NI
+6/30/2020,Identidade Ignorada,M,NI,Salvador,"Rua H, na entrada do Colégio José de Oliveira",Fazenda Grande I
+6/30/2020,Identidade Ignorada,M,NI,Salvador,Rua Alto do Luso,Plataforma

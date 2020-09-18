@@ -8,15 +8,21 @@ const api = axios.create({
 
 async function list() {
 
-    const crimes = await connection('crimes')
-        .select('adressOne', 'adressTwo', 'crime_id')
+    let crimes = await connection('crimes')
+        .select('enderecodb', 'bairrodb', 'cidadedb', 'crime_id')
+
+
+    console.log(crimes.length)
+
+    crimes = crimes.splice(200, 349);
 
 
     crimes.map(item => {
-        let query = `${item.adressTwo.split(',')[0].toLowerCase()} ${item.adressOne.toLowerCase()} bahia brasil`;
+        let query = `${item.enderecodb}, ${item.bairrodb !== 'NI' ? item.bairrodb : ''}, ${item.cidadedb}, bahia, brasil`;
         query = query.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+        query = query.replace('ª', '')
         query = query.replace('°', '')
-        console.log(query)
+        query = query.replace('º', '')
 
         api.get(`${query}&key=${process.env.API_KEY}`)
             .then(async response => {
@@ -26,8 +32,8 @@ async function list() {
                 let longitude = data.geometry.location.lng;
                 let bairro = 'NI';
                 let cidade = 'NI';
+                let estado = 'NI';
 
-                console.log(longitude);
 
                 address = data.address_components;
                 address.map(i => {
@@ -37,14 +43,18 @@ async function list() {
                     if (cidade === 'NI') {
                         cidade = i.types[0] === 'administrative_area_level_2' ? i.long_name : 'NI'
                     }
+                    if (estado === 'NI') {
+                      estado = i.types[0] === 'administrative_area_level_1' ? i.long_name : 'NI'
+                  }
                 })
                 await connection('crimes')
                     .where('crime_id', item.crime_id)
                     .update({
                         bairro,
-                        city: cidade,
+                        cidade,
                         latitude,
-                        longitude
+                        longitude,
+                        estado
                     })
             })
             .catch((err) => console.log(err))

@@ -1,7 +1,8 @@
 exports.up = function(knex) {
   return knex.schema.createTable('crimes', function (table) {
-    table.string('adressOne');
-    table.string('adressTwo');
+    table.string('enderecodb');
+    table.string('bairrodb');
+    table.string('cidadedb');
     table.string('nome');
     table.string('sexo');
     table.string('idade');
@@ -9,7 +10,8 @@ exports.up = function(knex) {
     table.string('hora');
     table.string('latitude');
     table.string('longitude');
-    table.string('city');
+    table.string('estado');
+    table.string('cidade');
     table.string('bairro');
     table.string('rua');
     table.string('crime_id');
