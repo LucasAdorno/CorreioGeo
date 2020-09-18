@@ -14,7 +14,7 @@ async function list() {
 
     console.log(crimes.length)
 
-    crimes = crimes.splice(200, 349);
+    crimes = crimes.splice(500,700);
 
 
     crimes.map(item => {
@@ -33,7 +33,6 @@ async function list() {
                 let bairro = 'NI';
                 let cidade = 'NI';
                 let estado = 'NI';
-
 
                 address = data.address_components;
                 address.map(i => {
